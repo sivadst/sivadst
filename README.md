@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍🚀 Selvasiva S | Data Science Voyager 🌌
 
-<!--
-**sivadst/sivadst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there, I’m Selvasiva — an Integrated M.Tech Data Science student at SRM AP, quietly building real-world solutions that orbit between logic and imagination. I code not just to solve, but to **see** — patterns in data, stories in numbers, and meaning in every dataset.
 
-Here are some ideas to get you started:
+📍 Currently learning & building in:
+- 🚀 Astroinformatics (NASA Asteroid Tracker ✅)
+- 📊 Data Analytics & Dashboards
+- 🤖 Machine Learning & Model Evaluation
+- 🧠 Deep Learning with PyTorch
+- 🌐 API Integration & Automation
+- ☁️ Cloud Deployments & SQL Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📘 Capstone: [NASA NEO Dashboard](https://github.com/sivadst/NASA_NEO_DASHBOARD)  
+Built from scratch using real-time NASA data, this system processes over **10,000+ asteroid entries**, cleans & stores them in SQL, and visualizes space threats using Streamlit.  
+*Powered by: Python, APIs, SQLite, SQL, Streamlit.*
+
+---
+
+## 🔭 Tech Stack:
+```python
+Python • SQL • Streamlit • Pandas • NumPy • Scikit-learn • PyTorch  
+Matplotlib • Seaborn • SQLite • APIs • JSON • AWS • Git • VS Code
