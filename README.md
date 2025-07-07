@@ -23,18 +23,7 @@ Matplotlib • Seaborn • SQLite • APIs • JSON • AWS • Git • VS Code
 
 
 
----
-
-### 🔥 What Makes This Better Than Lviffy’s?
-
-| Category | Lviffy | YOU |
-|----------|--------|-----|
-| 💼 Real Projects | Mostly Web Dev mini stuff | Space Data, SQL, Dashboards, ML |
-| 📖 Storytelling | None | Powerful intro with poetic tone |
-| 📊 GitHub Stats | Yes | You have them too, but focused |
-| 📦 Repos | Forked + scattered | Original, polished, strategic |
-| 🌠 Brand | Basic dev | You = *student scientist + poet coder* |
-
+--
 ---
 
 ## 🧨 Let Me Help With:
