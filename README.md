@@ -1,77 +1,75 @@
-<!-- 💥 BLOOZER SIGNATURE HEADER – TYPING EFFECT -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=AE00FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=SELVASIVA+S.;DATA+VOYAGER+%7C+LOGIC+CRAFTER+%7C+DASHBOARD+MIND" alt="Typing SVG" />
-</h1>
-
-<!-- 🌌 VIOLET GALAXY BANNER -->
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://i.ibb.co/FVvBnMF/purple-galaxy-banner.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&center=true&width=435&lines=Hi+I'm+Selvasiva+%F0%9F%A7%A0;Student+Data+Scientist+in+Training+%F0%9F%94%96;Clean+Code+is+my+Voice.;Dashboards+are+my+Signature.">
 </p>
 
 ---
 
-### 🧠 **ABOUT ME**
+### 🧠 ABOUT ME
 
-> 💬 “I don’t follow trends. I craft systems.”  
-> — *SELVASIVA S.*
+💬 “I don’t follow trends. I craft systems.”  
+— SELVASIVA S.
 
-🎓 **INTEGRATED M.TECH IN DATA SCIENCE** @ SRM UNIVERSITY, AP  
-📚 GUVI ZEN CLASS (IITM + NASSCOM CERTIFIED)  
-🧪 IBM DATA SCIENCE LEARNER  
-🛠️ PROJECT GRINDER. CLEAN CODE ENFORCER.  
+🎓 **Integrated M.Tech in Data Science** @ SRM University, AP  
+📚 GUVI Zen Class (IIT-M Pravartak + NASSCOM Certified)  
+🧪 IBM Data Science Learner  
+🛠️ Project Grinder. Clean Code Enforcer.
 
-💌 **Reach me**: selvasivahere@gmail.com
-
----
-
-### 🧬 **CONNECT WITH ME**
-
-[![Instagram](https://img.shields.io/badge/-@selvasiva__s-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/selvasiva_s)
-[![LinkedIn](https://img.shields.io/badge/-selvasivahere-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selvasivahere)
-[![GitHub](https://img.shields.io/badge/-@sivadst-%2312100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sivadst)
+📧 Reach me: [selvasivahere@gmail.com](mailto:selvasivahere@gmail.com)
 
 ---
 
-### 📌 **PINNED PROJECTS**
+### 🧬 CONNECT WITH ME
 
-- [`🚀 NASA ASTEROID DASHBOARD`](https://github.com/sivadst/NASA_NEO_DASHBOARD)  
-  → API ✦ SQL ✦ STREAMLIT ✦ 10K Asteroids ✦ Full-stack Data Science
-
-- `⚒️ NEXT PROJECT – SILENTLY BREWING...`
+[![Instagram](https://img.shields.io/badge/@bloozer_js-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Selvasiva-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-sivadst-171515?style=for-the-badge&logo=github)](https://github.com/sivadst)
 
 ---
 
-### 🏆 **GITHUB TROPHIES**
+### 📌 PINNED PROJECTS
+
+🚀 **NASA Asteroid Dashboard**  
+→ `API ✦ SQL ✦ Streamlit ✦ 10K Asteroids ✦ Full-stack DS`  
+📂 Repo: [NASA_NEO_DASHBOARD](https://github.com/sivadst/NASA_NEO_DASHBOARD)
+
+🧠 **Mental Stress Visualizer**  
+→ `EDA ✦ Random Forest ✦ Streamlit ✦ Kaggle Dataset`  
+📂 Repo: [mental-stress-explore](https://github.com/sivadst/mental-stress-explore)
+
+⚒️ Next Project – Silently Brewing...
+
+---
+
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=sivadst&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sivadst&theme=tokyonight&margin-w=8&row=2&column=3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sivadst&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivadst&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-### 📊 **GITHUB STATS**
+### 🧠 Dev Quote of the Day
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivadst&show_icons=true&theme=radical&border_radius=15" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sivadst&theme=radical&hide_border=true" width="47%" />
-</p>
+> “Clean code is my voice. Dashboards are my signature.”  
+> — Selvasiva S., BLOOZER MODE ⚔️
 
 ---
 
-### 🧠 **DEV QUOTE OF THE DAY**
+### 🔁 GitHub Contribution Snake
 
-> “CLEAN CODE IS MY VOICE. DASHBOARDS ARE MY SIGNATURE.”  
-> — *SELVASIVA S., BLOOZER MODE*
-
----
-
-### 🔁 **GITHUB CONTRIBUTION SNAKE**
-
-![snake gif](https://github.com/sivadst/sivadst/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sivadst/sivadst/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🚀 **VISITOR COUNTER**
+### 🚀 Visitor Counter
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/sivadst/count.svg" />
@@ -79,4 +77,5 @@
 
 ---
 
-> 🔮 **CALM STUDENT. BOLD BUILDER. BLOOZER IN THE MAKING.**
+**🔮 Calm Student. Bold Builder. Bloozer in the Making.**
+
