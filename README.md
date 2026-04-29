@@ -12,19 +12,7 @@
 
 📩 Reach me: **selvasivahere@gmail.com**
 
----
 
-### 📌 Pinned Projects
-
-🚀 **[NASA ASTEROID DASHBOARD](https://github.com/sivadst/NASA_NEO_DASHBOARD)**  
-→ API ✦ SQL ✦ Streamlit ✦ 10K Asteroids ✦ Full-stack DS  
-
-🧠 **[Mental Stress Explorer](https://github.com/sivadst/mental-stress-explore)**  
-→ Data Cleaning ✦ EDA ✦ Visualizations ✦ Random Forest ✦ Predictor  
-
-⚒️ _Next project brewing..._ Stay tuned 👀
-
----
 
 ### 🌟 GitHub Stats & Streaks
 
