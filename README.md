@@ -39,22 +39,15 @@
 ### `[ CLASSIFIED — PERSONNEL FILE ]`
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║     DESIGNATION  :  THE ARCHITECT                                            ║
+╔═════════════════════════════════════════════════════════════════════════════╗
+║                                                                             ║
+║     DESIGNATION  :  THE ARCHITECT                                           ║
 ║     ORIGIN       :  SRM University - AP, India                              ║
 ║     TRAJECTORY   :  Tokyo → Silicon Valley → History                        ║
 ║     THREAT LEVEL :  ████████████ MAXIMUM                                    ║
 ║     CLASS        :  AI Engineer / Outlaw Builder                            ║
-║                                                                              ║
-║  ──────────────────────────────────────────────────────────────────────────  ║
-║                                                                              ║
-║   "He didn't come from a legacy.                                             ║
-║    He came from a decision.                                                  ║
-║    One night. One realization.                                               ║
-║    That leverage was the only law that mattered."                            ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+║                                                                             ║
+╚═════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
