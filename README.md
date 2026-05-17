@@ -523,29 +523,7 @@ me.execute()  # 🔥 Excellence in motion.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
 
-<br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                       ◈  FINAL TRANSMISSION  ◈                              ║
-║                                                                              ║
-║   They won't remember the framework you used.                                ║
-║   They won't remember the GPU or the optimization tricks.                    ║
-║                                                                              ║
-║   They'll remember what you built.                                           ║
-║   They'll remember who benefited from it.                                    ║
-║   They'll remember the system that kept working when you weren't there.      ║
-║                                                                              ║
-║   That's the only metric worth optimizing for.                               ║
-║                                                                              ║
-║                      — THE ARCHITECT, SRM-AP, India                         ║
-║                        En route to Tokyo. Building legacy.                   ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
 
 <!-- ANIMATED TYPING — CLOSING -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1500&color=FFD700&center=true&vCenter=true&width=700&height=45&lines=⚔️+Build+with+intention...;🤠+Keep+your+standards+high.;💀+The+Architect+is+working." />
