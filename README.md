@@ -65,23 +65,6 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🌌 &nbsp; THE STORY
-
-> *The year was not important. What mattered was the moment he stopped waiting for permission.*
-
-He didn't start with a trust fund or a tech family.  
-He started with obsession — with the feeling that **systems, not luck**, build empires.
-
-Somewhere between a math textbook and an NVIDIA GPU cluster, he found the intersection that most engineers miss: **the frontier between raw intelligence and machine learning**.
-
-Now he builds in the dark — not because no one is watching, but because the work demands silence.
-
-**Inspired by:**  
-`Rockstar Games` &nbsp;`·`&nbsp; `OpenAI` &nbsp;`·`&nbsp; `NVIDIA` &nbsp;`·`&nbsp; `Interstellar` &nbsp;`·`&nbsp; `Cyberpunk 2077` &nbsp;`·`&nbsp; `Vijay JD`
-
-</td>
-<td width="45%" valign="top">
-
 ### ⚡ &nbsp; THE CODE
 
 ```python
