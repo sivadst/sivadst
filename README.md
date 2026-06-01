@@ -1,410 +1,315 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ██████████████████████████  THE ARCHITECT  ████████████████████████████████ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- HERO CAPSULE BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0000,60:3d0000,80:8b0000,100:ff4500&height=280&section=header&text=THE%20ARCHITECT&fontSize=90&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=◈%20AI%20Engineer%20%7C%20Systems%20Builder%20%7C%20Emerging%20Innovator%20◈&descAlignY=58&descSize=18&descColor=ff6b35" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        HERO SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=sivadst&style=for-the-badge&color=8b0000&label=PROFILE%20VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-BUILDING_SYSTEMS-9D00FF?style=for-the-badge&labelColor=0d0d0d" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=8B0000&center=true&vCenter=true&width=600&height=22&lines=%E2%96%88+INITIALIZING+ARCHITECT+OS+v9.1+%E2%96%88)](https://git.io/typing-svg)
 
-<br/><br/>
+```
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░                                                             ░
+ ░          ███████╗██╗██╗   ██╗ █████╗                       ░
+ ░          ██╔════╝██║██║   ██║██╔══██╗                      ░
+ ░          ███████╗██║██║   ██║███████║                      ░
+ ░          ╚════██║██║╚██╗ ██╔╝██╔══██║                      ░
+ ░          ███████║██║ ╚████╔╝ ██║  ██║                      ░
+ ░          ╚══════╝╚═╝  ╚═══╝  ╚═╝  ╚═╝                      ░
+ ░                                                             ░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-<!-- ANIMATED TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&multiline=false&width=800&height=55&lines=⚔️+Building+the+future+systematically...;🌌+Silent+execution%2C+visible+results.;🔥+AI+Engineer+%7C+SRM-AP+%7C+Tokyo-Bound;⚡+Designing+systems+that+scale.;💀+This+is+not+a+portfolio.+This+is+a+blueprint.;🤠+The+Architect+is+working." alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=900&color=FFD700&center=true&vCenter=true&width=800&height=55&lines=AI+Systems+Engineer;Deep+Learning+Architect;Systems+Builder.+Long-Game+Thinker.;Calm.+Focused.+Dangerous.)](https://git.io/typing-svg)
 
-<br/><br/>
+<br/>
 
-<!-- TOP DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+[![](https://img.shields.io/badge/STATUS-BUILDING_SYSTEMS-9D00FF?style=for-the-badge&labelColor=0d0d0d)](https://github.com/sivadst)&nbsp;&nbsp;[![](https://img.shields.io/badge/ORIGIN-SRM--AP_×_INDIA-8B0000?style=for-the-badge&labelColor=0d0d0d)](https://github.com/sivadst)&nbsp;&nbsp;[![](https://komarev.com/ghpvc/?username=sivadst&style=for-the-badge&color=8b0000&labelColor=0d0d0d&label=PROFILE+SCANS)](https://github.com/sivadst)
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌌  ABOUT ME  ============================================================ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     SYSTEM PROFILE                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a0000&height=3&section=header" width="100%"/>
-
-### `[ SYSTEM PROFILE ]`
-
 ```
-╔═════════════════════════════════════════════════════════════════════════════╗
-║                                                                             ║
-║     DESIGNATION  :  THE ARCHITECT                                           ║
-║     INSTITUTION  :  SRM University - AP, India                              ║
-║     CAPACITY     :  ████████████ MAXIMUM                                    ║
-║     SPECIALIZATION: AI Engineering / Systems Design                         ║                                             
-║                                                                             ║
-║                                                                             ║
-╚═════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                      [ SYSTEM PROFILE ]                            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   DESIGNATION   ──  SELVASIVA  (sivadst)                            ║
+║   ROLE          ──  AI Systems Engineer  /  Deep Learning Architect  ║
+║   BASE          ──  SRM University – AP  ×  Salem, Tamil Nadu        ║
+║   MISSION       ──  Build AI systems that last decades               ║
+║   PHILOSOPHY    ──  Compound effort over noise                       ║
+║   TRAJECTORY    ──  Tokyo-bound  ×  Infinite leverage                ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
 
-<table align="center" border="0">
-<tr>
-<td width="55%" valign="top">
+---
 
-### ⚡ &nbsp; THE CODE
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      CODE BLOCK                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center"><h3>◈ &nbsp; THE CODEBASE &nbsp; ◈</h3></div>
 
 ```python
 class TheArchitect:
-    def __init__(self):
-        self.name     = "THE ARCHITECT"
-        self.origin   = "SRM-AP, India"
-        self.mission  = "Build AI systems that matter"
-        self.fuel     = ["discipline","leverage","focus"]
-        self.creed    = "Long game. Always."
 
-    def philosophy(self):
+    def __init__(self):
+        self.handle        = "sivadst"
+        self.name          = "SELVASIVA"
+        self.domain        = "AI Engineering  /  Systems Design"
+        self.institution   = "SRM University – AP"
+        self.stack         = ["PyTorch", "TensorFlow", "Python", "C++", "FastAPI", "Docker"]
+        self.operating_sys = "Linux"
+        self.fuel          = ["discipline", "depth", "leverage", "silence"]
+        self.long_game     = True
+
+    def philosophy(self) -> dict:
         return {
-            "on_work"    : "Code is architecture. Build systems that endure.",
-            "on_time"    : "Compound returns outlast efforts.",
-            "on_failure" : "Debug with precision. Learn relentlessly.",
-            "on_legacy"  : "Leave infrastructure, not just features."
+            "on_architecture" : "Design for decades. Refactor for elegance.",
+            "on_learning"     : "Compound knowledge. Depth before breadth.",
+            "on_execution"    : "Bias toward action. Measure everything.",
+            "on_legacy"       : "Leave infrastructure — not just features.",
         }
+
+    def current_objective(self) -> str:
+        return "Build scalable AI systems. Ship. Iterate. Endure."
 
 
 me = TheArchitect()
-me.execute()  # 🔥 Excellence in motion.
+print(me.current_objective())
+# ▶  Build scalable AI systems. Ship. Iterate. Endure.
 ```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ⚡  SYSTEM STATUS  ======================================================= -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=⚡%20SYSTEM%20STATUS%20PANEL&fontSize=35&fontColor=FFD700&animation=blinking" />
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  LIVE TELEMETRY PANEL                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
 
 <br/>
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────┐
-│  ██  LIVE TELEMETRY — ARCHITECT OS v9.1  ████████████████████████████████  │
+│           ⚡  LIVE TELEMETRY  ──  ARCHITECT OS  v9.1  ⚡                   │
+├──────────────────────────────────────────────────────────┬─────────────────┤
+│  PROCESS                                                 │  STATUS         │
+├──────────────────────────────────────────────────────────┼─────────────────┤
+│  AI / Deep Learning                 ████████████████░░  │  OPERATIONAL    │
+│  Mathematical Foundations           ███████████████░░░  │  ADVANCING      │
+│  Systems Architecture               ████████████████░░  │  BUILDING       │
+│  Data Engineering & Pipelines       ██████████████░░░░  │  ACTIVE         │
+│  Computer Vision                    █████████████░░░░░  │  EXPLORING      │
+│  Research  ×  Experimentation       █████████████████░  │  CONTINUOUS     │
+├──────────────────────────────────────────────────────────┼─────────────────┤
+│  FOCUS LOCK                                              │  ENGAGED        │
+│  ACTIVE OBJECTIVE   ►  Scalable AI infrastructure        │  IN PROGRESS    │
+│  NEXT MILESTONE     ►  Tokyo  ×  International research  │  LOCKED IN      │
+│  UPTIME             ►  365d — no compromise              │  MAXIMUM        │
+└──────────────────────────────────────────────────────────┴─────────────────┘
+```
+
+<br/>
+
+[![](https://img.shields.io/badge/MODE-DEEP_WORK-0d0d0d?style=flat-square&labelColor=8B0000)](https://github.com/sivadst)&nbsp;[![](https://img.shields.io/badge/INTENSITY-MAXIMUM-0d0d0d?style=flat-square&labelColor=1a0000)](https://github.com/sivadst)&nbsp;[![](https://img.shields.io/badge/NOISE-FILTERED-0d0d0d?style=flat-square&labelColor=3d0000)](https://github.com/sivadst)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECH ARSENAL                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h3>◈ &nbsp; TECH ARSENAL &nbsp; ◈</h3>
+
+<br/>
+
+**` PRIMARY — AI & Machine Learning `**
+
+[![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FFD700)](https://python.org)&nbsp;[![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)](https://pytorch.org)&nbsp;[![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)](https://tensorflow.org)&nbsp;[![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=4DABCF)](https://numpy.org)&nbsp;[![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=9D00FF)](https://pandas.pydata.org)&nbsp;[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)](https://scikit-learn.org)
+
+<br/>
+
+**` SPECIALIZED — Data, Vision & APIs `**
+
+[![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=5C3EE8)](https://opencv.org)&nbsp;[![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=009688)](https://fastapi.tiangolo.com)&nbsp;[![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=336791)](https://www.postgresql.org)&nbsp;[![R](https://img.shields.io/badge/R-0d0d0d?style=for-the-badge&logo=r&logoColor=276DC3)](https://www.r-project.org)&nbsp;[![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=DC143C)](https://isocpp.org)
+
+<br/>
+
+**` INFRASTRUCTURE — DevOps & Platforms `**
+
+[![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)](https://docker.com)&nbsp;[![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FFD700)](https://kernel.org)&nbsp;[![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sivadst)&nbsp;[![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com)&nbsp;[![Jupyter](https://img.shields.io/badge/Jupyter-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=F37626)](https://jupyter.org)
+
+<br/>
+
+**` VISUAL SCAN `**
+
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,r,git,linux,docker,vscode,github,opencv,fastapi&theme=dark&perline=12)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB ANALYTICS                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h3>◈ &nbsp; GITHUB ANALYTICS &nbsp; ◈</h3>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sivadst&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=FFD700&icon_color=DC143C&text_color=ff6b35&border_color=8b0000&hide_border=false&count_private=true&show=prs_merged,prs_merged_percentage&rank_icon=github" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivadst&layout=compact&theme=radical&bg_color=0d0d0d&title_color=FFD700&text_color=ff6b35&border_color=8b0000&langs_count=8" width="49%" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=sivadst&theme=radical&background=0d0d0d&border=8b0000&stroke=DC143C&ring=FFD700&fire=ff4500&currStreakNum=FFD700&sideNums=ff6b35&currStreakLabel=DC143C&sideLabels=9D00FF&dates=8b8b8b" width="60%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivadst&bg_color=0d0d0d&color=FFD700&line=DC143C&point=ff4500&area=true&area_color=8b0000&hide_border=false&border_color=8b0000&title_color=FFD700" width="98%" alt="Contribution Graph"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION SNAKE                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h3>◈ &nbsp; CONTRIBUTION MATRIX &nbsp; ◈</h3>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivadst/sivadst/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sivadst/sivadst/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sivadst/sivadst/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   PHILOSOPHY / QUOTES                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<h3>◈ &nbsp; AXIOMS &nbsp; ◈</h3>
+
+<br/>
+
+```
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│  " The best systems are invisible.                                         │
+│    The best architects are silent.                                         │
+│    The work speaks."                                                       │
+│                                                                            │
+│                                                        — THE ARCHITECT     │
+│                                                                            │
 ├────────────────────────────────────────────────────────────────────────────┤
 │                                                                            │
-│  🔥  INTENSITY LEVEL       ████████████████████░░  97%   [ FOCUSED ]      │
-│  ⚔️  EXECUTION DISCIPLINE  █████████████████████░  99%   [ REFINED ]      │
-│  🧠  AI SYSTEMS           ████████████████████░░  96%   [ OPERATIONAL ]   │
-│  📐  MATHEMATICAL DEPTH    ██████████████████░░░░  88%   [ ADVANCING ]    │    
-│  💡  LEVERAGE              █████████████████████░  98%   [ MAXIMIZED ]    │
-│  🚀  LEGACY IMPACT         ██████░░░░░░░░░░░░░░░░  28%   [ EARLY STAGE ]  │
-│  🎯  FOCUS LOCK            █████████████████████░  99%   [ ENGAGED ]      │
-├────────────────────────────────────────────────────────────────────────────│
-│  ACTIVE OBJECTIVE :  🤖  Architecting scalable AI systems                 │
-│  OPTIMIZATION     :  ☠️  MAXIMUM — Against mediocrity                     │
-│  UPTIME           :  365d 24h 00m — No compromise                         │
-│  NEXT MILESTONE   :  🌸  Land in Tokyo. Build the future.                 │
+│  " Most people optimize for this year.                                     │
+│    I'm optimizing for this decade."                                        │
+│                                                                            │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│  " Code without intention is just noise.                                   │
+│    Architecture with intention becomes infrastructure."                    │
+│                                                                            │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
 
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3500&pause=1500&color=8B0000&center=true&vCenter=true&width=700&height=30&lines=Build+with+intention.+Ship+with+precision.+Endure.)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
 
-<!-- STATUS BADGES ROW 1 -->
-<div align="center">
+---
 
-![](https://img.shields.io/badge/🔥_INTENSITY-MAXIMUM-8b0000?style=for-the-badge&labelColor=0d0d0d)
-![](https://img.shields.io/badge/⚔️_DISCIPLINE-REFINED-FFD700?style=for-the-badge&labelColor=1a0000)
-![](https://img.shields.io/badge/🧠_SYSTEMS-OPERATIONAL-9D00FF?style=for-the-badge&labelColor=0d0d0d)
-
-</div>
-
-<!-- STATUS BADGES ROW 2 -->
-<div align="center">
-
-![](https://img.shields.io/badge/🎮_INSPIRED_BY-Rockstar_Games-crimson?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/🤖_POWERED_BY-OpenAI_+_NVIDIA-76B900?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/🌌_AESTHETIC-Cyberpunk_2077-9D00FF?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/🎬_ENERGY-Interstellar-FFD700?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/🤠_SPIRIT-RDR2_Outlaw-8b4513?style=flat-square&labelColor=0d0d0d)
-
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     CONTACT SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+
+<h3>◈ &nbsp; FIND THE ARCHITECT &nbsp; ◈</h3>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ⚔️  TECH ARSENAL ========================================================= -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=⚔️%20TECH%20ARSENAL&fontSize=40&fontColor=DC143C&animation=scaleIn" />
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-selvesiva--s--portfolio.vercel.app-0d0d0d?style=for-the-badge&logo=vercel&logoColor=FFD700&labelColor=8B0000)](https://selvesiva-s-portfolio.vercel.app/)&nbsp;[![GitHub](https://img.shields.io/badge/GITHUB-sivadst-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=1a0000)](https://github.com/sivadst)&nbsp;[![Instagram](https://img.shields.io/badge/INSTAGRAM-selvasiva.2s-0d0d0d?style=for-the-badge&logo=instagram&logoColor=E1306C&labelColor=1a0000)](https://www.instagram.com/selvasiva.2s)
 
 <br/>
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║              ☠  TECHNICAL TOOLKIT — PRODUCTION GRADE  ☠                 ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────┐
+│   Open to  ──  Research Collaborations                  │
+│            ──  AI / ML Engineering Roles                │
+│            ──  Systems Architecture Projects            │
+│            ──  Internship Opportunities                  │
+│                                                         │
+│   Not open to  ──  Noise   ──   Mediocrity              │
+└─────────────────────────────────────────────────────────┘
 ```
 
-</div>
-
-<table align="center" border="0" cellpadding="8">
-<tr>
-<td align="center" width="33%">
-
-**`〔 PRIMARY ARSENAL 〕`**  
-*Machine Learning & AI*
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FFD700)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=9D00FF)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-
-</td>
-<td align="center" width="33%">
-
-**`〔 SPECIALIZED TOOLS 〕`**  
-*Data & Systems*
-
-![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=336791)
-![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=DC143C)
-![R](https://img.shields.io/badge/R-0d0d0d?style=for-the-badge&logo=r&logoColor=276DC3)
-![MATLAB](https://img.shields.io/badge/MATLAB-0d0d0d?style=for-the-badge&logo=mathworks&logoColor=FF6B35)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=009688)
-
-</td>
-<td align="center" width="33%">
-
-**`〔 INFRASTRUCTURE 〕`**  
-*DevOps & Platforms*
-
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FFD700)
-![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=F37626)
-
-</td>
-</tr>
-</table>
-
 <br/>
 
-<!-- SKILL ICONS -->
-<div align="center">
+[![](https://img.shields.io/badge/Selective_with-Standards-333333?style=flat-square&labelColor=0d0d0d)](https://github.com/sivadst)&nbsp;[![](https://img.shields.io/badge/Open_to-Research_Collaboration-9D00FF?style=flat-square&labelColor=0d0d0d)](https://github.com/sivadst)&nbsp;[![](https://img.shields.io/badge/Open_to-AI_%26_ML_Projects-DC143C?style=flat-square&labelColor=0d0d0d)](https://github.com/sivadst)
 
-`〔 SKILL ICONS — VISUAL SCAN 〕`
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,git,linux,docker,vscode,github,r,opencv,latex&theme=dark&perline=12" />
-
-<br/><br/>
-
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📈  GITHUB ANALYTICS  ==================================================== -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=📈%20GITHUB%20ANALYTICS&fontSize=42&fontColor=DC143C&animation=fadeIn" />
+[![Capsule Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff4500,20:8b0000,50:1a0000,80:0d0d0d,100:0d0d0d&height=140&section=footer&text=THE+ARCHITECT&fontsize=38&fontColor=FFD700&fontAlignY=62&animation=fadeIn)](https://github.com/sivadst)
 
-<br/>
+<sub>
 
 ```
-◈ CONTRIBUTION STATISTICS — VERIFIED METRICS ◈
+░ sivadst  ×  AI Systems Engineer  ×  SRM-AP  ×  India  ░
 ```
 
-<!-- STATS ROW 1 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sivadst&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=FFD700&icon_color=DC143C&text_color=ff6b35&border_color=8b0000&hide_border=false&count_private=true&show=prs_merged,prs_merged_percentage" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivadst&layout=compact&theme=radical&bg_color=0d0d0d&title_color=FFD700&text_color=ff6b35&border_color=8b0000&langs_count=8" />
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com/?user=sivadst&theme=radical&background=0d0d0d&border=8b0000&stroke=DC143C&ring=FFD700&fire=ff4500&currStreakNum=FFD700&sideNums=ff6b35&currStreakLabel=DC143C&sideLabels=9D00FF&dates=8b8b8b" />
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivadst&bg_color=0d0d0d&color=FFD700&line=DC143C&point=ff4500&area=true&area_color=8b0000&hide_border=false&border_color=8b0000&title_color=FFD700" width="100%"/>
-
-<br/><br/>
-
-<!-- TROPHIES -->
-```
-◈ TROPHIES — ACHIEVEMENTS UNLOCKED ◈
-```
-
-<img src="https://github-profile-trophy.vercel.app/?username=sivadst&theme=radical&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Reviews" />
-
-<br/><br/>
-
-<!-- CONTRIBUTION SNAKE -->
-```
-◈ CONTRIBUTION TIMELINE — CONSISTENT OUTPUT ◈
-```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivadst/sivadst/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sivadst/sivadst/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sivadst/sivadst/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<br/><br/>
-
-<!-- EXTRA METRICS BADGES -->
-
-![](https://img.shields.io/badge/🔥_Total_Commits-Growing-DC143C?style=for-the-badge&labelColor=0d0d0d)
-&nbsp;
-![](https://img.shields.io/badge/⚔️_PRs_Merged-Active-FFD700?style=for-the-badge&labelColor=1a0000)
-&nbsp;
-![](https://img.shields.io/badge/🌌_Issues_Resolved-Methodical-9D00FF?style=for-the-badge&labelColor=0d0d0d)
-&nbsp;
-![](https://img.shields.io/badge/🚀_Stars_Earned-Organic-ff4500?style=for-the-badge&labelColor=0d0d0d)
-
-<br/>
+</sub>
 
 </div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
-
-
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🧠  THE ENGINEER'S MINDSET  ================================================= -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=🧠%20THE%20ENGINEER'S%20CODE&fontSize=42&fontColor=9D00FF&animation=blinking" />
-
-</div>
-
-<table align="center" border="0" width="90%">
-<tr>
-<td valign="top">
-
-
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- QUOTE WIDGETS -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0d0d0d&title_color=FFD700&quote_color=ff6b35&author_color=9D00FF&border_color=8b0000" />
-
-<br/>
-
-<!-- RANDOM DEV QUOTE -->
-<img src="https://readme-jokes.vercel.app/api?theme=radical&bgColor=%230d0d0d&borderColor=%238b0000&qColor=%23FFD700&aColor=%23ff6b35&punchlineColor=%239D00FF" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  CONNECT  ================================================================ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=◈%20FIND%20THE%20ARCHITECT%20◈&fontSize=30&fontColor=FFD700" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Connect)](https://linkedin.com/in/sivadst)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff&label=Follow)](https://github.com/sivadst)
-[![Twitter](https://img.shields.io/badge/X_%2F_Twitter-0d0d0d?style=for-the-badge&logo=x&logoColor=ffffff&label=Follow)](https://twitter.com/sivadst)
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=DC143C&label=Contact)](mailto:hello@sivadst.dev)
-
-<br/>
-
-![](https://img.shields.io/badge/Open_to-Research_Collaborations-9D00FF?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/Open_to-Internship_Opportunities-FFD700?style=flat-square&labelColor=1a0000)
-![](https://img.shields.io/badge/Open_to-AI_&_ML_Projects-DC143C?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/Selective_with-Standards-333333?style=flat-square&labelColor=0d0d0d)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎬  CLOSING TRANSMISSION  ================================================ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
-
-
-
-<!-- ANIMATED TYPING — CLOSING -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1500&color=FFD700&center=true&vCenter=true&width=700&height=45&lines=⚔️+Build+with+intention...;🤠+Keep+your+standards+high.;💀+The+Architect+is+working." />
-
-<br/><br/>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4500,20:8b0000,50:1a0000,80:0d0d0d,100:0d0d0d&height=160&section=footer&text=THE+ARCHITECT&fontSize=40&fontColor=FFD700&fontAlignY=65&animation=fadeIn" />
-
-<!-- HIDDEN EASTER EGG -->
-<!-- 🎮 You found it. The real project is becoming the person who builds it. Keep going. -->
-
-</div>
-
-<!-- 
-╔══════════════════════════════════════════════════════════════╗
-║           ARCHITECT OS — README ENGINE v2.0                  ║
-║     "The profile is the mission dossier. Optimized."         ║
-╚══════════════════════════════════════════════════════════════╝
--->
