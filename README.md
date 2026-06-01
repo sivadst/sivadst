@@ -41,9 +41,9 @@
 ║                                                                             ║
 ║     DESIGNATION  :  THE ARCHITECT                                           ║
 ║     INSTITUTION  :  SRM University - AP, India                              ║
-║     TRAJECTORY   :  Tokyo → Silicon Valley → Shaping the Future             ║
 ║     CAPACITY     :  ████████████ MAXIMUM                                    ║
-║     SPECIALIZATION: AI Engineering / Systems Design                         ║
+║     SPECIALIZATION: AI Engineering / Systems Design                         ║                                             
+║                                                                             ║
 ║                                                                             ║
 ╚═════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -63,7 +63,6 @@ class TheArchitect:
     def __init__(self):
         self.name     = "THE ARCHITECT"
         self.origin   = "SRM-AP, India"
-        self.target   = "Tokyo, Japan 🗾"
         self.mission  = "Build AI systems that matter"
         self.fuel     = ["discipline","leverage","focus"]
         self.creed    = "Long game. Always."
@@ -76,8 +75,6 @@ class TheArchitect:
             "on_legacy"  : "Leave infrastructure, not just features."
         }
 
-    def current_arc(self):
-        return "⛩️  TOKYO ARC — IN PROGRESS..."
 
 me = TheArchitect()
 me.execute()  # 🔥 Excellence in motion.
@@ -104,26 +101,23 @@ me.execute()  # 🔥 Excellence in motion.
 <br/>
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────────────────┐
 │  ██  LIVE TELEMETRY — ARCHITECT OS v9.1  ████████████████████████████████  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  🔥  INTENSITY LEVEL       ████████████████████░░  97%   [ FOCUSED ]       │
-│  ⚔️  EXECUTION DISCIPLINE  █████████████████████░  99%   [ REFINED ]       │
-│  🧠  AI SYSTEMS           ████████████████████░░  96%   [ OPERATIONAL ]    │
-│  📐  MATHEMATICAL DEPTH    ██████████████████░░░░  88%   [ ADVANCING ]     │
-│  🌏  TOKYO OBJECTIVE       ████████░░░░░░░░░░░░░░  39%   [ IN MOTION ]     │
-│  💡  LEVERAGE              █████████████████████░  98%   [ MAXIMIZED ]     │
-│  🚀  LEGACY IMPACT         ██████░░░░░░░░░░░░░░░░  28%   [ EARLY STAGE ]   │
-│  🎯  FOCUS LOCK            █████████████████████░  99%   [ ENGAGED ]       │
-│                                                                             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  CURRENT PHASE    :  ⛩️  TOKYO ARC — FINAL FORM PREPARATION               │
-│  ACTIVE OBJECTIVE :  🤖  Architecting scalable AI systems                  │
-│  OPTIMIZATION     :  ☠️  MAXIMUM — Against mediocrity                      │
-│  UPTIME           :  365d 24h 00m — No compromise                          │
-│  NEXT MILESTONE   :  🌸  Land in Tokyo. Build the future.                  │
-└─────────────────────────────────────────────────────────────────────────────┘
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│  🔥  INTENSITY LEVEL       ████████████████████░░  97%   [ FOCUSED ]      │
+│  ⚔️  EXECUTION DISCIPLINE  █████████████████████░  99%   [ REFINED ]      │
+│  🧠  AI SYSTEMS           ████████████████████░░  96%   [ OPERATIONAL ]   │
+│  📐  MATHEMATICAL DEPTH    ██████████████████░░░░  88%   [ ADVANCING ]    │    
+│  💡  LEVERAGE              █████████████████████░  98%   [ MAXIMIZED ]    │
+│  🚀  LEGACY IMPACT         ██████░░░░░░░░░░░░░░░░  28%   [ EARLY STAGE ]  │
+│  🎯  FOCUS LOCK            █████████████████████░  99%   [ ENGAGED ]      │
+├────────────────────────────────────────────────────────────────────────────│
+│  ACTIVE OBJECTIVE :  🤖  Architecting scalable AI systems                 │
+│  OPTIMIZATION     :  ☠️  MAXIMUM — Against mediocrity                     │
+│  UPTIME           :  365d 24h 00m — No compromise                         │
+│  NEXT MILESTONE   :  🌸  Land in Tokyo. Build the future.                 │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -136,7 +130,6 @@ me.execute()  # 🔥 Excellence in motion.
 ![](https://img.shields.io/badge/🔥_INTENSITY-MAXIMUM-8b0000?style=for-the-badge&labelColor=0d0d0d)
 ![](https://img.shields.io/badge/⚔️_DISCIPLINE-REFINED-FFD700?style=for-the-badge&labelColor=1a0000)
 ![](https://img.shields.io/badge/🧠_SYSTEMS-OPERATIONAL-9D00FF?style=for-the-badge&labelColor=0d0d0d)
-![](https://img.shields.io/badge/🌏_TOKYO-IN_MOTION-ff4500?style=for-the-badge&labelColor=1a0000)
 
 </div>
 
@@ -232,22 +225,6 @@ me.execute()  # 🔥 Excellence in motion.
 
 <br/><br/>
 
-<!-- DOMAIN EXPERTISE BARS -->
-
-```
-◈ DOMAIN EXPERTISE ◈
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  Machine Learning & Deep Learning    ████████████████████  ★★★★★
-  Linear Algebra & Calculus           ████████████████████  ★★★★★
-  Computer Vision                     █████████████████░░░  ★★★★☆
-  NLP & Large Language Models         ████████████████░░░░  ★★★★☆
-  System Design & Architecture        ███████████████░░░░░  ★★★★☆
-  Data Pipelines & Analytics          █████████████░░░░░░░  ★★★☆☆
-  Research & Mathematical Modeling    ████████████████████  ★★★★★
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 </div>
 
@@ -328,93 +305,12 @@ me.execute()  # 🔥 Excellence in motion.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </div>
 
-<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯  CURRENT MISSIONS  ==================================================== -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=🎯%20CURRENT%20OBJECTIVES&fontSize=40&fontColor=ff4500&animation=scaleIn" />
-
-</div>
-
-<table align="center" border="0" width="90%">
-<tr>
-<td width="50%" valign="top">
-
-```
-┌─────────────────────────────────────────┐
-│   🤖  OBJECTIVE 01 — THE BUILD          │
-├─────────────────────────────────────────┤
-│  Task:       AI systems at scale        │
-│  Status:     🔴 ACTIVE DEVELOPMENT      │
-│  Timeline:   Long-term commitment       │
-│  Details:    ML pipelines. LLMs.        │
-│              Computer Vision. Integration│
-└─────────────────────────────────────────┘
-
-┌─────────────────────────────────────────┐
-│   ⛩️  OBJECTIVE 02 — TOKYO ARC          │
-├─────────────────────────────────────────┤
-│  Task:       Language & culture immersion│
-│  Status:     🟡 IN PREPARATION          │
-│  Timeline:   Imminent                   │
-│  Details:    日本語勉強中。継続中。      │
-└─────────────────────────────────────────┘
-```
-
-</td>
-<td width="50%" valign="top">
-
-```
-┌─────────────────────────────────────────┐
-│   🏗️  OBJECTIVE 03 — THE VENTURE        │
-├─────────────────────────────────────────┤
-│  Task:       Build from first principles │
-│  Status:     🔵 BLUEPRINT PHASE         │
-│  Timeline:   When ready. Not rushed.    │
-│  Details:    Vision. Timing. Execution. │
-└─────────────────────────────────────────┘
-
-┌─────────────────────────────────────────┐
-│   👑  OBJECTIVE 04 — LASTING IMPACT     │
-├─────────────────────────────────────────┤
-│  Task:       Engineer systems for impact │
-│  Status:     🟣 IN PROGRESS             │
-│  Timeline:   Years, not quarters        │
-│  Details:    Sustainable. Scalable.     │
-└─────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- DAILY RHYTHM BADGES -->
-<div align="center">
-
-![](https://img.shields.io/badge/🌅_Wakes_up-Before_sunrise-0d0d0d?style=flat-square&labelColor=1a0000&color=FFD700)
-![](https://img.shields.io/badge/📚_Currently-Research_+_Code-0d0d0d?style=flat-square&labelColor=1a0000&color=9D00FF)
-![](https://img.shields.io/badge/🎧_Fueled_by-Focus_soundtrack-0d0d0d?style=flat-square&labelColor=1a0000&color=DC143C)
-![](https://img.shields.io/badge/☕_Sustenance-Coffee_+_Purpose-0d0d0d?style=flat-square&labelColor=1a0000&color=ff4500)
-![](https://img.shields.io/badge/🌙_Rest-When_milestone_reached-0d0d0d?style=flat-square&labelColor=1a0000&color=8b0000)
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🧠  THE ENGINEER'S CODE  ================================================= -->
+<!-- 🧠  THE ENGINEER'S MINDSET  ================================================= -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -427,37 +323,7 @@ me.execute()  # 🔥 Excellence in motion.
 <tr>
 <td valign="top">
 
-```
-┌────────────────────────────────────────────────────────────────────────────┐
-│                                                                            │
-│    D I S C I P L I N E                                                     │
-│    ─────────────────────────────────────────────────────────────           │
-│    "Most people chase outcomes. The engineer builds systems.               │
-│     Excellence emerges from the process, not the illusion of effort."      │
-│                                                                            │
-│    L E V E R A G E                                                         │
-│    ─────────────────────────────────────────────────────────────           │
-│    "One system running at scale beats a thousand hours of manual work.     │
-│     Always be building. Always be optimizing."                             │
-│                                                                            │
-│    P R O G R E S S I O N                                                   │
-│    ─────────────────────────────────────────────────────────────           │
-│    "Student → Engineer → Architect → Legend.                               │
-│     Each phase demands complete commitment and deep learning."             │
-│                                                                            │
-│    E X C E L L E N C E                                                     │
-│    ─────────────────────────────────────────────────────────────           │
-│    "Excellence is a standard you set for yourself when no one is looking.  │
-│     In the lab. At 3AM. Alone with the problem."                          │
-│                                                                            │
-│    L E G A C Y                                                             │
-│    ─────────────────────────────────────────────────────────────           │
-│    "Build infrastructure that others will stand on.                        │
-│     Leave systems that compound in value.                                  │
-│     Create something that matters beyond the product cycle."               │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
-```
+
 
 </td>
 </tr>
