@@ -1,51 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4&height=200&section=header&text=SIVADST&fontSize=90&fontColor=FF4500&animation=twinkling&fontAlignY=55&desc=A.I.%20%E2%80%A2%20DATA%20%E2%80%A2%20SYSTEMS&descAlignY=78&descSize=16&descColor=CC3300" />
-
-</div>
-
-<div align="center">
-
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-░                                                                         ░
-░    ██████╗ ███████╗ █████╗ ██████╗     ██████╗ ███████╗ █████╗ ██████╗  ░
-░    ██╔══██╗██╔════╝██╔══██╗██╔══██╗    ██╔══██╗██╔════╝██╔══██╗██╔══██╗ ░
-░    ██║  ██║█████╗  ███████║██║  ██║    ██║  ██║█████╗  ███████║██║  ██║ ░
-░    ██║  ██║██╔══╝  ██╔══██║██║  ██║    ██║  ██║██╔══╝  ██╔══██║██║  ██║ ░
-░    ██████╔╝███████╗██║  ██║██████╔╝    ██████╔╝███████╗██║  ██║██████╔╝ ░
-░    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝     ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝  ░
-░                                                                         ░
-░              R  E  D  E  M  P  T  I  O  N   ·   2  0  2  5             ░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&size=22&duration=3000&pause=800&color=FF4500&center=true&vCenter=true&multiline=false&width=700&lines=AI+%2F+Data+Science+Engineer;Full-Stack+AI+Platform+Architect;Geospatial+Intelligence+Systems;Real-Time+ML+%E2%80%A2+Production+Grade)](https://git.io/typing-svg)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                               ▓
-▓    ▄▀█ █▀█ █▀ █▀▀ █▄ █ ▄▀█ █     ▀   ▄▀█ █ █                 ▓
-▓    █▀█ █▀▄ ▄█ ██▄ █ ▀█ █▀█ █▄▄   ·   █▀█ █ █                 ▓
-▓                                                               ▓
-▓    AI/ML Engineer  ·  Chennai, India  ·  Builder              ▓
-▓                                                               ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
 
 </div>
 
@@ -89,7 +42,6 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-FF4500?style=for-the-badge&logo=fastapi&logoColor=1a0000)
 ![Docker](https://img.shields.io/badge/Docker-CC2200?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FF6633?style=for-the-badge&logo=linux&logoColor=1a0000)
 ![Git](https://img.shields.io/badge/Git-AA1100?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
