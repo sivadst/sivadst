@@ -283,7 +283,6 @@ Python Machine Learning Streamlit SQL Analytics
 <summary><h3>🔥 View More Projects (Click to Expand)</h3></summary>
 
 <div align="center">
-
 Project
 Description
 Stack
@@ -441,8 +440,20 @@ PRO
 <div align="center">
 
 🔥 BUILT WITH FIRE. ENGINEERED WITH PURPOSE. DEPLOYED WITH INTENTION. 🔥
-text
-1234567891011121314
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "The future doesn't wait for anyone.                           ║
+║    So I build it myself."                                        ║
+║                                                                  ║
+║              — SELVASIVA                                         ║
+║                                                                  ║
+║   [ 🧠 AI  ·  🌐 Full-Stack  ·  📊 Data  ·  🛡️ Security ]       ║
+║                                                                  ║
+║   Salem, Tamil Nadu 🇮🇳  ·  SRM-AP                               ║
+║                                                                  ║
+║   © 2023 — 2026 · All Systems Evolving                           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=150&section=footer&text=⚡%20FORK%20·%20STAR%20·%20COLLABORATE%20⚡&fontSize=25&fontColor=fff&animation=fadeIn&stroke=FF6B35&strokeWidth=2" width="100%"/>
 
 </div>
