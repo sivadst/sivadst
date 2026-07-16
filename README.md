@@ -1,322 +1,274 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ███████████████████████████  ARCHITECT   ██████████████████████████████████ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
+<!-- ========================================================================= -->
+<!-- TERMINAL HEADER SECTION -->
+<!-- ========================================================================= -->
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:18181b,100:27272a&height=280&section=header&text=SIVADST&fontSize=80&fontColor=F59E0B&desc=◈%20Artificial%20Intelligence%20%7C%20Systems%20Architecture%20%7C%20Mathematical%20Engineering%20◈&descAlignY=58&descSize=18&descColor=A1A1AA&animation=fadeIn" />
+```
+██████╗ ███████╗ █████╗ ██████╗     ███████╗██╗   ██╗███████╗
+██╔══██╗██╔════╝██╔══██╗██╔══██╗    ██╔════╝╚██╗ ██╔╝██╔════╝
+██║  ██║█████╗  ███████║██║  ██║    █████╗   ╚████╔╝ █████╗  
+██║  ██║██╔══╝  ██╔══██║██║  ██║    ██╔══╝    ╚██╔╝  ██╔══╝  
+██████╔╝███████╗██║  ██║██████╔╝    ███████╗   ██║   ███████╗
+╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝     ╚══════╝   ╚═╝   ╚══════╝
+```
 
-<!-- VISITOR COUNTER & STATUS -->
-<img src="https://komarev.com/ghpvc/?username=sivadst&style=for-the-badge&color=D97706&label=SYSTEM%20TRAFFIC" />
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-BUILDING_SCALABLE_AI-D97706?style=for-the-badge&labelColor=09090B" />
-
-<br/><br/>
-
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2000&pause=800&color=F59E0B&center=true&vCenter=true&multiline=false&width=800&height=50&lines=⚡+Designing+systems+that+scale+indefinitely...;🧠+Machine+Learning+engineered+with+mathematical+precision.;🛠️+Building+intelligent+infrastructure+for+tomorrow.;📈+Compounding+results+through+systematic+execution." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=850&height=50&lines=DEAD+EYE+ACTIVATED+%2F%2F+Geospatial+Intelligence+%2F%2F+Real-Time+ML+Systems+%2F%2F+Full-Stack+AI+Platform+Engineering+%2F%2F+Production-Grade+Deployment" alt="Typing SVG" />
 </a>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" align="center"/>
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌌  EXECUTIVE SUMMARY  ===================================================== -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ========================================================================= -->
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<!-- ========================================================================= -->
+<!-- SECTION: SNAKE ANIMATION -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sivadst/sivadst/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" align="center"/>
+</div>
 
-<table align="center" border="0" cellpadding="10" width="100%">
-<tr>
-<td width="55%" valign="top">
+<br/>
 
-### 🎯 MISSION & FOCUS
+<!-- ========================================================================= -->
+<!-- 3D CONTRIBUTION CALENDAR -->
+<!-- ========================================================================= -->
+<!-- SECTION: 3D CALENDAR -->
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-green.png" alt="3D Contribution Calendar" width="85%" align="center"/>
+</div>
 
-I am a **Systems Architect & AI Engineer** specializing in the intersection of mathematical theory and large-scale practical implementation. I design systems that process massive data streams, train optimized neural architectures, and deploy resilient, production-ready AI models.
+<br/>
 
-My work centers around three core pillars:
-1. **Mathematical Rigor**: Grounding machine learning models in strong statistical, linear algebra, and calculus principles.
-2. **Computational Leverage**: Building highly optimized data pipelines and high-throughput model serving infrastructures.
-3. **Architectural Durability**: Designing clean, decoupled, and maintainable systems from first principles.
+<!-- ========================================================================= -->
+<!-- MISSION LOG BOXES (ASCII Art) -->
+<!-- ========================================================================= -->
+<!-- SECTION: MISSION LOGS -->
+<div align="center">
+<table width="100%" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td width="50%" style="border: none; padding: 10px;" valign="top">
+
+```yaml
+# ===================================================
+# [ MISSION I: SMARTCOMMUTE ]
+# ===================================================
+STATUS: [🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛] 85% ACTIVE
+CLASS:  Startup-Grade AI Mobility Platform
+TECH:   Python · FastAPI · Mapbox · ML · Geospatial · Docker
+LOGS:
+  - Real-time routing engine
+  - Carbon-aware navigation
+  - Congestion prediction model
+  - Mapbox command-center dashboard
+```
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" style="border: none; padding: 10px;" valign="top">
 
-### ⚙️ SYSTEM METRICS
-
-```python
-# Core System Configurations
-identity = {
-    "developer": "SELVASIVA",
-    "core_focus": [
-        "AI Engineering",
-        "Systems Architecture",
-        "Statistical Modeling"
-    ],
-    "specialties": [
-        "Distributed ML",
-        "Computer Vision",
-        "Infrastructure"
-    ],
-    "philosophy": "Build systems that outlast features."
-}
+```yaml
+# ===================================================
+# [ MISSION II: RETAIL INTELLIGENCE ]
+# ===================================================
+STATUS: [🟧🟧🟧🟧🟧🟧🟧🟧⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛] 40% IN PROGRESS
+CLASS:  Full-Stack Retail AI Engine
+TECH:   Python · TensorFlow · Pandas · SQL · Scikit-Learn
+LOGS:
+  - Demand forecasting
+  - Behavioral signal extraction
+  - Decision intelligence layer
 ```
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ⚔️  TECHNICAL ARSENAL ===================================================== -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=⚔️%20TECHNICAL%20ARSENAL&fontSize=36&fontColor=F59E0B&animation=scaleIn" />
-
+<!-- ========================================================================= -->
+<!-- SKILL MATRIX -->
+<!-- ========================================================================= -->
+<!-- SECTION: SKILL MATRIX -->
+<details>
+<summary><b>📡 CLICK TO EXPAND SKILL MATRIX</b></summary>
 <br/>
 
-</div>
-
-<table align="center" border="0" cellpadding="8" width="100%">
+<table width="100%" border="0" cellpadding="5">
 <tr>
-<td align="center" width="33%" valign="top">
+<td valign="top" width="25%">
 
-**`〔 MACHINE LEARNING & AI 〕`**  
-*Modeling & Frameworks*
-
-![Python](https://img.shields.io/badge/Python-09090b?style=for-the-badge&logo=python&logoColor=F59E0B)
-![PyTorch](https://img.shields.io/badge/PyTorch-09090b?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-09090b?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![NumPy](https://img.shields.io/badge/NumPy-09090b?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![Pandas](https://img.shields.io/badge/Pandas-09090b?style=for-the-badge&logo=pandas&logoColor=3B82F6)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-09090b?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-
-</td>
-<td align="center" width="33%" valign="top">
-
-**`〔 DATA & COMPUTATION 〕`**  
-*Core Languages & Backends*
-
-![SQL](https://img.shields.io/badge/SQL-09090b?style=for-the-badge&logo=postgresql&logoColor=336791)
-![C++](https://img.shields.io/badge/C++-09090b?style=for-the-badge&logo=cplusplus&logoColor=F59E0B)
-![R](https://img.shields.io/badge/R-09090b?style=for-the-badge&logo=r&logoColor=276DC3)
-![MATLAB](https://img.shields.io/badge/MATLAB-09090b?style=for-the-badge&logo=mathworks&logoColor=FF6B35)
-![OpenCV](https://img.shields.io/badge/OpenCV-09090b?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![FastAPI](https://img.shields.io/badge/FastAPI-09090b?style=for-the-badge&logo=fastapi&logoColor=009688)
+#### 🌐 LANGUAGES
+- ![Python](https://img.shields.io/badge/Python-00F0FF?style=for-the-badge&logo=python&logoColor=000000)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-00F0FF?style=for-the-badge&logo=typescript&logoColor=000000)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-00F0FF?style=for-the-badge&logo=javascript&logoColor=000000)
+- ![C%2F%2FC%2B%2B](https://img.shields.io/badge/C%2F%2FC%2B%2B-00F0FF?style=for-the-badge&logo=cplusplus&logoColor=000000)
+- ![SQL](https://img.shields.io/badge/SQL-00F0FF?style=for-the-badge&logo=postgresql&logoColor=000000)
+- ![HTML](https://img.shields.io/badge/HTML-00F0FF?style=for-the-badge&logo=html5&logoColor=000000)
+- ![CSS](https://img.shields.io/badge/CSS-00F0FF?style=for-the-badge&logo=css3&logoColor=000000)
 
 </td>
-<td align="center" width="33%" valign="top">
+<td valign="top" width="25%">
 
-**`〔 SYSTEM & PLATFORMS 〕`**  
-*Infrastructure & Tooling*
+#### 🧠 DEEP LEARNING
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF00FF?style=for-the-badge&logo=tensorflow&logoColor=000000)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-FF00FF?style=for-the-badge&logo=pytorch&logoColor=000000)
+- ![Keras](https://img.shields.io/badge/Keras-FF00FF?style=for-the-badge&logo=keras&logoColor=000000)
+- ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-FF00FF?style=for-the-badge&logo=scikit-learn&logoColor=000000)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-FF00FF?style=for-the-badge&logo=opencv&logoColor=000000)
 
-![Git](https://img.shields.io/badge/Git-09090b?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-09090b?style=for-the-badge&logo=github&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-09090b?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-09090b?style=for-the-badge&logo=linux&logoColor=F59E0B)
-![VS Code](https://img.shields.io/badge/VS_Code-09090b?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Jupyter](https://img.shields.io/badge/Jupyter-09090b?style=for-the-badge&logo=jupyter&logoColor=F37626)
+</td>
+<td valign="top" width="25%">
+
+#### 📊 DATA ENGINE
+- ![Pandas](https://img.shields.io/badge/Pandas-FFB000?style=for-the-badge&logo=pandas&logoColor=000000)
+- ![NumPy](https://img.shields.io/badge/NumPy-FFB000?style=for-the-badge&logo=numpy&logoColor=000000)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFB000?style=for-the-badge&logo=matplotlib&logoColor=000000)
+- ![Seaborn](https://img.shields.io/badge/Seaborn-FFB000?style=for-the-badge&logo=seaborn&logoColor=000000)
+
+</td>
+<td valign="top" width="25%">
+
+#### ⚙️ SYSTEMS
+- ![Docker](https://img.shields.io/badge/Docker-00FF66?style=for-the-badge&logo=docker&logoColor=000000)
+- ![Git](https://img.shields.io/badge/Git-00FF66?style=for-the-badge&logo=git&logoColor=000000)
+- ![Linux](https://img.shields.io/badge/Linux-00FF66?style=for-the-badge&logo=linux&logoColor=000000)
+- ![FastAPI](https://img.shields.io/badge/FastAPI-00FF66?style=for-the-badge&logo=fastapi&logoColor=000000)
+- ![Streamlit](https://img.shields.io/badge/Streamlit-00FF66?style=for-the-badge&logo=streamlit&logoColor=000000)
+- ![Mapbox](https://img.shields.io/badge/Mapbox-00FF66?style=for-the-badge&logo=mapbox&logoColor=000000)
 
 </td>
 </tr>
 </table>
+</details>
 
 <br/>
 
+<!-- ========================================================================= -->
+<!-- GITHUB STATS DASHBOARD -->
+<!-- ========================================================================= -->
+<!-- SECTION: GITHUB STATS -->
+<details>
+<summary><b>📈 CLICK TO EXPAND TELEMETRY & STATS</b></summary>
+<br/>
 <div align="center">
 
-`〔 SYSTEM VISUALIZATIONS 〕`
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,git,linux,docker,vscode,github,r,opencv,latex&theme=dark&perline=12" />
-
-<br/><br/>
-
-<!-- DOMAIN EXPERTISE BARS -->
-
-```
-                             ◈ CORE COMPETENCIES ◈
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  Deep Learning & Neural Architectures  ████████████████████████████  95%
-  Linear Algebra & Statistical Physics  ████████████████████████████  95%
-  Computer Vision & Scene Understanding ████████████████████████░░░░  85%
-  Large Language Models (LLM / NLP)     ████████████████████████░░░░  85%
-  Systems Architecture & Design Patterns ██████████████████████░░░░░░  80%
-  High-Performance Data Pipelines       ██████████████████████░░░░░░  80%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📈  ANALYTICS & METRICS  ================================================== -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=📈%20PRODUCTION%20METRICS&fontSize=36&fontColor=F59E0B&animation=fadeIn" />
-
-<br/>
-
-<!-- STATS ROW 1 -->
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=sivadst&show_icons=true&theme=tokyonight&bg_color=09090b&title_color=f59e0b&icon_color=f59e0b&text_color=e4e4e7&border_color=27272a&hide_border=false&count_private=true&show=prs_merged,prs_merged_percentage" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sivadst&show_icons=true&theme=dark&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=e4e4e7&bg_color=0d1117&count_private=true&show=prs_merged,prs_merged_percentage" align="center" />
 &nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivadst&layout=compact&theme=tokyonight&bg_color=09090b&title_color=f59e0b&text_color=e4e4e7&border_color=27272a&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivadst&layout=compact&theme=dark&bg_color=0d1117&title_color=00F0FF&text_color=e4e4e7&border_color=0d1117&hide=html,css" align="center" />
 
 <br/><br/>
 
-<!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com/?user=sivadst&theme=tokyonight&background=09090b&border=27272a&stroke=f59e0b&ring=f59e0b&fire=f59e0b&currStreakNum=e4e4e7&sideNums=e4e4e7&currStreakLabel=f59e0b&sideLabels=f59e0b&dates=a1a1aa" />
+<img src="https://streak-stats.demolab.com/?user=sivadst&theme=dark&fire=FFB000&background=0d1117&border=0d1117&stroke=00F0FF&ring=00F0FF&currStreakNum=e4e4e7&sideNums=e4e4e7&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=a1a1aa" align="center" />
 
 <br/><br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=sivadst&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Reviews" align="center" />
+
+</div>
+</details>
+
+<br/>
+
+<!-- ========================================================================= -->
+<!-- PINNED PROJECTS SHOWCASE -->
+<!-- ========================================================================= -->
+<!-- SECTION: PINNED PROJECTS -->
+<div align="center">
+  <table width="100%" style="border-collapse: collapse;">
+    <tr>
+      <td width="50%" valign="top" style="border: 1px solid #333; padding: 15px; border-radius: 6px;">
+        <b>🚀 <a href="https://github.com/sivadst/SmartCommute">SmartCommute</a></b>
+        <p>AI mobility platform with routing engine, carbon-aware nav, Mapbox dashboard.</p>
+        <img src="https://img.shields.io/badge/Python-00F0FF?style=flat-square&logo=python&logoColor=000000" />
+        <img src="https://img.shields.io/badge/FastAPI-00FF66?style=flat-square&logo=fastapi&logoColor=000000" />
+        <img src="https://img.shields.io/badge/Mapbox-00FF66?style=flat-square&logo=mapbox&logoColor=000000" />
+        <br/><br/>
+        <code>STATUS: OPERATIONAL</code>
+      </td>
+      <td width="50%" valign="top" style="border: 1px solid #333; padding: 15px; border-radius: 6px;">
+        <b>🤖 <a href="https://github.com/sivadst/HOME.AI">HOME.AI</a></b>
+        <p>Neural intelligence dashboard for local telemetry, logs, and edge device controls.</p>
+        <img src="https://img.shields.io/badge/Python-00F0FF?style=flat-square&logo=python&logoColor=000000" />
+        <img src="https://img.shields.io/badge/Streamlit-00FF66?style=flat-square&logo=streamlit&logoColor=000000" />
+        <br/><br/>
+        <code>STATUS: OPERATIONAL</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" style="border: 1px solid #333; padding: 15px; border-radius: 6px;">
+        <b>💼 <a href="https://github.com/sivadst/Emissary">Emissary</a></b>
+        <p>Business intelligence platform with transactional signal processing & models.</p>
+        <img src="https://img.shields.io/badge/Python-00F0FF?style=flat-square&logo=python&logoColor=000000" />
+        <img src="https://img.shields.io/badge/SQL-00F0FF?style=flat-square&logo=postgresql&logoColor=000000" />
+        <img src="https://img.shields.io/badge/ML-FF00FF?style=flat-square&logo=scikit-learn&logoColor=000000" />
+        <br/><br/>
+        <code>STATUS: IN DEVELOPMENT</code>
+      </td>
+      <td width="50%" valign="top" style="border: 1px solid #333; padding: 15px; border-radius: 6px;">
+        <b>🛒 <a href="https://github.com/sivadst/Retail-Intelligence-AI">Retail Intelligence AI</a></b>
+        <p>Retail analytics engine for demand forecasting & behavioral signals.</p>
+        <img src="https://img.shields.io/badge/Python-00F0FF?style=flat-square&logo=python&logoColor=000000" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF00FF?style=flat-square&logo=tensorflow&logoColor=000000" />
+        <img src="https://img.shields.io/badge/SQL-00F0FF?style=flat-square&logo=postgresql&logoColor=000000" />
+        <br/><br/>
+        <code>STATUS: IN DEVELOPMENT</code>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" style="border: 1px solid #333; padding: 15px; border-radius: 6px;">
+        <b>📊 <a href="https://github.com/sivadst/JobMatrix">JobMatrix</a></b>
+        <p>AI career platform supporting job matching metrics and graph visualization.</p>
+        <img src="https://img.shields.io/badge/JavaScript-00F0FF?style=flat-square&logo=javascript&logoColor=000000" />
+        <img src="https://img.shields.io/badge/HTML-00F0FF?style=flat-square&logo=html5&logoColor=000000" />
+        <img src="https://img.shields.io/badge/CSS-00F0FF?style=flat-square&logo=css3&logoColor=000000" />
+        <br/><br/>
+        <code>STATUS: OPERATIONAL</code>
+      </td>
+      <td width="50%" valign="top" style="border: 1px solid #333; padding: 15px; border-radius: 6px;">
+        <b>🎬 <a href="https://github.com/sivadst/ReelMind-Engine">ReelMind-Engine</a></b>
+        <p>Hybrid recommendation engine using collaborative & content filtering.</p>
+        <img src="https://img.shields.io/badge/Python-00F0FF?style=flat-square&logo=python&logoColor=000000" />
+        <img src="https://img.shields.io/badge/Streamlit-00FF66?style=flat-square&logo=streamlit&logoColor=000000" />
+        <img src="https://img.shields.io/badge/ML-FF00FF?style=flat-square&logo=scikit-learn&logoColor=000000" />
+        <br/><br/>
+        <code>STATUS: OPERATIONAL</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- ========================================================================= -->
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivadst&bg_color=09090b&color=f59e0b&line=f59e0b&point=f59e0b&area=true&area_color=18181b&hide_border=false&border_color=27272a&title_color=f59e0b" width="100%"/>
+<!-- ========================================================================= -->
+<!-- SECTION: ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivadst&theme=github-compact&color=00F0FF&bg_color=0d1117&line=00F0FF&point=FFB000&area=true&area_color=00F0FF" alt="Activity Graph" width="100%" align="center"/>
+</div>
+
+<br/>
+
+<!-- ========================================================================= -->
+<!-- FOOTER SECTION -->
+<!-- ========================================================================= -->
+<!-- SECTION: FOOTER -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" align="center"/>
+
+```
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+ ::: DEAD EYE ::: SYSTEM ONLINE // GEOSPATIAL INTELLIGENCE LOG
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+```
+
+<img src="https://komarev.com/ghpvc/?username=sivadst&color=00F0FF&style=for-the-badge" alt="Profile Views" align="center"/>
 
 <br/><br/>
 
-<!-- TROPHIES -->
-```
-                       ◈ MILESTONES & ACHIEVEMENTS ◈
-```
-
-<img src="https://github-profile-trophy.vercel.app/?username=sivadst&theme=radical&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Reviews" />
-
-<br/><br/>
-
-<!-- CONTRIBUTION SNAKE -->
-```
-                       ◈ CONTRIBUTION ENGINE STATUS ◈
-```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivadst/sivadst/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sivadst/sivadst/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sivadst/sivadst/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯  ONGOING PROJECTS & FOCUS  ============================================= -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=🎯%20ACTIVE%20FOCUS%20AREAS&fontSize=36&fontColor=F59E0B&animation=scaleIn" />
-
-</div>
-
-<table align="center" border="0" width="90%" cellpadding="6">
-<tr>
-<td width="55%" valign="top">
-
-```
-┌─────────────────────────────────────────┐
-│   ⚙️  01 — MODEL OPTIMIZATION           │
-├─────────────────────────────────────────┤
-│  Scope:      Quantization & Distillation│
-│  Status:     ⚫ ACTIVE PIPELINE         │
-│  Priority:   High-throughput serving    │
-│  Objective:  Minimizing inference latency│
-└─────────────────────────────────────────┘
-
-┌─────────────────────────────────────────┐
-│   🌐  02 — DISTRIBUTED LEARNING         │
-├─────────────────────────────────────────┤
-│  Scope:      Multi-GPU training systems │
-│  Status:     🟢 BENCHMARKING            │
-│  Priority:   Infrastructure scale       │
-│  Objective:  Highly scalable training   │
-└─────────────────────────────────────────┘
-```
-
-</td>
-<td width="45%" valign="top">
-
-```
-┌─────────────────────────────────────────┐
-│   🛠️  03 — GRAPH COMPILATION            │
-├─────────────────────────────────────────┤
-│  Scope:      Custom C++ ops & kernels   │
-│  Status:     🔵 PROTOTYPE PHASE         │
-│  Priority:   Hardware acceleration      │
-│  Objective:  Optimizing backpropagation │
-└─────────────────────────────────────────┘
-
-┌─────────────────────────────────────────┐
-│   📊  04 — ML DATA INFRASTRUCTURE       │
-├─────────────────────────────────────────┤
-│  Scope:      Real-time feature stores   │
-│  Status:     🟣 IN PRODUCTION           │
-│  Priority:   Low-latency data access    │
-│  Objective:  Consistency across serving  │
-└─────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🤝  COMMUNICATION PROTOCOL  ============================================== -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=◈%20COMMUNICATION%20PROTOCOL%20◈&fontSize=30&fontColor=F59E0B" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Connect)](https://linkedin.com/in/sivadst)
-[![GitHub](https://img.shields.io/badge/GitHub-09090b?style=for-the-badge&logo=github&logoColor=ffffff&label=Follow)](https://github.com/sivadst)
-[![Twitter](https://img.shields.io/badge/X_%2F_Twitter-09090b?style=for-the-badge&logo=x&logoColor=ffffff&label=Follow)](https://twitter.com/sivadst)
-[![Email](https://img.shields.io/badge/Email-09090b?style=for-the-badge&logo=gmail&logoColor=D97706&label=Contact)](mailto:hello@sivadst.dev)
-
-<br/><br/>
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,30:d97706,70:18181b,100:09090b&height=160&section=footer&text=SIVADST&fontSize=40&fontColor=09090b&fontAlignY=65&animation=fadeIn" />
+<img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Joke" align="center"/>
 
 </div>
