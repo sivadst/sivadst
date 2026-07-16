@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ███████████████████████████   SIVADST   ██████████████████████████████████ -->
+<!-- ███████████████████████████  ARCHITECT   ██████████████████████████████████ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -52,7 +52,7 @@ My work centers around three core pillars:
 ```python
 # Core System Configurations
 identity = {
-    "developer": "SIVADST",
+    "developer": "SELVASIVA",
     "core_focus": [
         "AI Engineering",
         "Systems Architecture",
