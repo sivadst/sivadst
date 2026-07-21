@@ -42,7 +42,7 @@ CSE  Undergrad · building ML systems, Security
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/shree-varshan-545194371) · [Medium](https://medium.com/@mevarx) · [Email](mailto:shreevarshan2699@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/selvasivaa) · [Insta](https://www.instagram.com/selvasiva._.s/) · [Email](mailto:selvasivahere@gmail.com)
 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
