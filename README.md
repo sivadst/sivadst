@@ -34,7 +34,7 @@ CSE  Undergrad · building ML systems, Security
 
 <div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mevarx&bg_color=0d1117&color=c084fc&line=c084fc&point=ffffff&area=true&area_color=c084fc&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
