@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
+<div align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3N0bHVhZ2N2amo3dTZvMXpxc2dmMWgzdHUwaTRyenlsYWc2b2N5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mvgtNtBDPyZWWDtSr0/giphy.gif" width="400" align="right" />
 
 <!-- HERO CAPSULE BANNER -->
