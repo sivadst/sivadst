@@ -1,60 +1,57 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ██████████████████████████  THE ARCHITECT  ████████████████████████████████ -->
+<!-- ████████████████████████  THE ARCHITECT  ██████████████████████████████████ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<div align="center">
+
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3N0bHVhZ2N2amo3dTZvMXpxc2dmMWgzdHUwaTRyenlsYWc2b2N5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mvgtNtBDPyZWWDtSr0/giphy.gif" width="400" align="right" />
 
 <!-- HERO CAPSULE BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0000,60:3d0000,80:8b0000,100:ff4500&height=280&section=header&text=THE%20ARCHITECT&fontSize=90&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=◈%20AI%20Engineer%20%7C%20Systems%20Builder%20%7C%20Future%20Outlaw%20◈&descAlignY=58&descSize=18&descColor=ff6b35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0000,60:3d0000,80:8b0000,100:ff4500&height=280&section=header&text=THE%20ARCHITECT&fontSize=90&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=◈%20AI%20Engineer%20%7C%20Systems%20Builder%20%7C%20SRM-AP%20→%20Tokyo%20◈&descAlignY=58&descSize=18&descColor=ff6b35" />
 
 <!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=sivadst&style=for-the-badge&color=8b0000&label=SOULS+WITNESSED" />
+<img src="https://komarev.com/ghpvc/?username=sivadst&style=for-the-badge&color=8b0000&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/sivadst?style=for-the-badge&color=FFD700&labelColor=1a0000&label=DISCIPLES" />
+<img src="https://img.shields.io/github/followers/sivadst?style=for-the-badge&color=FFD700&labelColor=1a0000&label=FOLLOWERS" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-BUILDING_LEGACY-9D00FF?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-9D00FF?style=for-the-badge&labelColor=0d0d0d" />
 
 <br/><br/>
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&multiline=false&width=800&height=55&lines=⚔️+Code+the+frontier...;🌌+But+keep+your+hands+on+the+holster.;🔥+AI+Engineer+%7C+SRM-AP+%7C+Future+Tokyo;⚡+Building+systems+that+matter.;💀+This+is+not+a+portfolio.+This+is+a+war+plan.;🤠+The+Architect+has+entered+the+game." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&multiline=false&width=800&height=55&lines=building+AI+systems.+quietly.;SRM-AP+→+Tokyo+→+further.;code+the+frontier,+keep+your+hands+on+the+holster.;long+game.+always.;still+early.+still+building." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- TOP DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌌  ABOUT ME  ============================================================ -->
+<!-- 🌌  ABOUT  =============================================================== -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a0000&height=3&section=header" width="100%"/>
 
-### `[ CLASSIFIED — PERSONNEL FILE ]`
+### `[ PERSONNEL FILE ]`
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║     DESIGNATION  :  THE ARCHITECT                                            ║
-║     ORIGIN       :  SRM University - AP, India                              ║
-║     TRAJECTORY   :  Tokyo → Silicon Valley → History                        ║
-║     THREAT LEVEL :  ████████████ MAXIMUM                                    ║
-║     CLASS        :  AI Engineer / Outlaw Builder                            ║
+║     name       :  selva                                                      ║
+║     base       :  SRM University — AP, India                                ║
+║     heading    :  Tokyo                                                      ║
+║     work       :  AI engineering                                             ║
+║     timeline   :  long                                                       ║
 ║                                                                              ║
 ║  ──────────────────────────────────────────────────────────────────────────  ║
 ║                                                                              ║
-║   "He didn't come from a legacy.                                             ║
-║    He came from a decision.                                                  ║
-║    One night. One realization.                                               ║
-║    That leverage was the only law that mattered."                            ║
+║   started with obsession.                                                    ║
+║   still running on it.                                                       ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -69,16 +66,15 @@
 
 ### 🌌 &nbsp; THE STORY
 
-> *The year was not important. What mattered was the moment he stopped waiting for permission.*
+> *There wasn't a single moment. Just a slow accumulation of decisions, each one compounding into something.*
 
-He didn't start with a trust fund or a tech family.  
-He started with obsession — with the feeling that **systems, not luck**, build empires.
+No advantages coming in. A math textbook, a laptop, and the specific kind of stubbornness that doesn't announce itself.
 
-Somewhere between a math textbook and an NVIDIA GPU cluster, he found the intersection that most engineers miss: **the frontier between raw intelligence and machine learning**.
+Found the intersection most engineers walk past — the space between raw mathematical foundations and what machine learning actually needs underneath. Been working that angle since.
 
-Now he builds in the dark — not because no one is watching, but because the work demands silence.
+Most of the real work happens before anyone is paying attention. That's usually when it matters most.
 
-**Inspired by:**  
+**Drawn to:**  
 `Rockstar Games` &nbsp;`·`&nbsp; `OpenAI` &nbsp;`·`&nbsp; `NVIDIA` &nbsp;`·`&nbsp; `Interstellar` &nbsp;`·`&nbsp; `Cyberpunk 2077` &nbsp;`·`&nbsp; `Vijay JD`
 
 </td>
@@ -89,26 +85,26 @@ Now he builds in the dark — not because no one is watching, but because the wo
 ```python
 class TheArchitect:
     def __init__(self):
-        self.name     = "THE ARCHITECT"
-        self.origin   = "SRM-AP, India"
-        self.target   = "Tokyo, Japan 🗾"
-        self.mission  = "Build AI that matters"
-        self.fuel     = ["discipline","leverage","silence"]
-        self.creed    = "Long game. Always."
+        self.name     = "selva"
+        self.base     = "SRM-AP, India"
+        self.heading  = "Tokyo, Japan 🗾"
+        self.doing    = "AI engineering"
+        self.mode     = "long game"
 
-    def philosophy(self):
-        return {
-            "on_work"    : "Code is architecture. Build cathedrals.",
-            "on_time"    : "Compound or die.",
-            "on_failure" : "Debugging the soul.",
-            "on_legacy"  : "Leave fingerprints on the future."
-        }
+    def on_work(self):
+        return "build things that compound."
 
-    def current_arc(self):
-        return "⛩️  TOKYO ARC — LOADING..."
+    def on_time(self):
+        return "years, not quarters."
+
+    def on_failure(self):
+        return "part of the build."
+
+    def current(self):
+        return "⛩️  still loading."
 
 me = TheArchitect()
-me.execute()  # 🔥 No errors. Ever.
+# no errors yet
 ```
 
 </td>
@@ -127,55 +123,46 @@ me.execute()  # 🔥 No errors. Ever.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=⚡%20SYSTEM%20STATUS%20PANEL&fontSize=35&fontColor=FFD700&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=⚡%20SYSTEM%20STATUS&fontSize=38&fontColor=FFD700&animation=blinking" />
 
 <br/>
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  ██  LIVE TELEMETRY — ARCHITECT OS v9.1  ████████████████████████████████  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  🔥  HEAT LEVEL        ████████████████████░░  97%   [ CRITICAL ]          │
-│  ⚔️  DISCIPLINE        █████████████████████░  99%   [ FORGED ]            │
-│  🧠  AI STATUS         ████████████████████░░  96%   [ ONLINE ]            │
-│  📐  MATH DEPTH        ██████████████████░░░░  88%   [ EXPANDING ]         │
-│  🌏  TOKYO ARC         ████████░░░░░░░░░░░░░░  39%   [ LOADING... ]        │
-│  💡  LEVERAGE          █████████████████████░  98%   [ MAXIMIZED ]         │
-│  🚀  LEGACY PROGRESS   ██████░░░░░░░░░░░░░░░░  28%   [ EARLY GAME ]        │
-│  🎯  FOCUS MODE        █████████████████████░  99%   [ LOCKED IN ]         │
-│                                                                             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  CURRENT ARC      :  ⛩️  TOKYO ARC — FINAL FORM PREPARATION               │
-│  ACTIVE MISSION   :  🤖  Building AI systems at scale                      │
-│  THREAT LEVEL     :  ☠️  MAXIMUM — To mediocrity                           │
-│  UPTIME           :  365d 24h 00m — No days off                            │
-│  NEXT CHECKPOINT  :  🌸  Land in Tokyo. Build the startup.                 │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│  ARCHITECT OS — current read                                             │
+├──────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│  working on     →   AI / ML systems                                      │
+│  math           →   Lin Alg, Calculus, ODEs — going deeper              │
+│  language       →   日本語 — slow, steady, every day                    │
+│  arc            →   Tokyo prep                                           │
+│  mode           →   building                                             │
+│  timeline       →   long                                                 │
+│  status         →   in progress                                          │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 <br/>
 
-<!-- STATUS BADGES ROW 1 -->
 <div align="center">
 
-![](https://img.shields.io/badge/🔥_HEAT_LEVEL-CRITICAL-8b0000?style=for-the-badge&labelColor=0d0d0d)
-![](https://img.shields.io/badge/⚔️_DISCIPLINE-FORGED-FFD700?style=for-the-badge&labelColor=1a0000)
-![](https://img.shields.io/badge/🧠_AI_STATUS-ONLINE-9D00FF?style=for-the-badge&labelColor=0d0d0d)
-![](https://img.shields.io/badge/🌏_TOKYO_ARC-LOADING-ff4500?style=for-the-badge&labelColor=1a0000)
+![](https://img.shields.io/badge/mode-building-8b0000?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/discipline-consistent-FFD700?style=for-the-badge&labelColor=1a0000)
+![](https://img.shields.io/badge/AI-active-9D00FF?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/tokyo_arc-in_progress-ff4500?style=for-the-badge&labelColor=1a0000)
 
 </div>
 
-<!-- STATUS BADGES ROW 2 -->
 <div align="center">
 
-![](https://img.shields.io/badge/🎮_INSPIRED_BY-Rockstar_Games-crimson?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/🤖_POWERED_BY-OpenAI_+_NVIDIA-76B900?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/🌌_AESTHETIC-Cyberpunk_2077-9D00FF?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/🎬_ENERGY-Interstellar-FFD700?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/🤠_SPIRIT-RDR2_Outlaw-8b4513?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/inspired_by-Rockstar_Games-crimson?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/powered_by-OpenAI_+_NVIDIA-76B900?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/aesthetic-Cyberpunk_2077-9D00FF?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/energy-Interstellar-FFD700?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/spirit-RDR2-8b4513?style=flat-square&labelColor=0d0d0d)
 
 </div>
 
@@ -193,35 +180,25 @@ me.execute()  # 🔥 No errors. Ever.
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=⚔️%20TECH%20ARSENAL&fontSize=40&fontColor=DC143C&animation=scaleIn" />
 
-<br/>
-
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║              ☠  WEAPONS CACHE — CLASSIFIED ACCESS ONLY  ☠               ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 <table align="center" border="0" cellpadding="8">
 <tr>
 <td align="center" width="33%">
 
-**`〔 PRIMARY WEAPONS 〕`**  
-*Machine Learning & AI*
+**`〔 AI & MACHINE LEARNING 〕`**
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FFD700)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=4DABCF)
 ![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=9D00FF)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 
 </td>
 <td align="center" width="33%">
 
-**`〔 SIDEARMS 〕`**  
-*Data & Systems*
+**`〔 DATA & SYSTEMS 〕`**
 
 ![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=DC143C)
@@ -233,8 +210,7 @@ me.execute()  # 🔥 No errors. Ever.
 </td>
 <td align="center" width="33%">
 
-**`〔 FIELD GEAR 〕`**  
-*Tools & Infrastructure*
+**`〔 TOOLS 〕`**
 
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)
@@ -249,30 +225,23 @@ me.execute()  # 🔥 No errors. Ever.
 
 <br/>
 
-<!-- SKILL ICONS -->
 <div align="center">
-
-`〔 SKILL ICONS — QUICK SCAN 〕`
-
-<br/>
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,git,linux,docker,vscode,github,r,opencv,latex&theme=dark&perline=12" />
 
 <br/><br/>
 
-<!-- DOMAIN EXPERTISE BARS -->
-
 ```
-◈ DOMAIN EXPERTISE ◈
+◈ DEPTH BY DOMAIN ◈
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  Machine Learning & Deep Learning   ████████████████████  ★★★★★
+  Machine Learning & Deep Learning    ████████████████████  ★★★★★
   Linear Algebra & Calculus           ████████████████████  ★★★★★
+  Research & Mathematical Modeling    ████████████████████  ★★★★★
   Computer Vision                     █████████████████░░░  ★★★★☆
   NLP & LLMs                          ████████████████░░░░  ★★★★☆
-  System Design & Architecture        ███████████████░░░░░  ★★★★☆
+  System Design                       ███████████████░░░░░  ★★★★☆
   Data Pipelines & Analytics          █████████████░░░░░░░  ★★★☆☆
-  Research & Mathematical Modeling    ████████████████████  ★★★★★
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
@@ -286,7 +255,7 @@ me.execute()  # 🔥 No errors. Ever.
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌌  FEATURED PROJECTS — MISSION DOSSIERS  ================================ -->
+<!-- 🌌  FEATURED PROJECTS  =================================================== -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -297,8 +266,7 @@ me.execute()  # 🔥 No errors. Ever.
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║        ☠  MISSION DOSSIERS — EYES ONLY  ☠                    ║
-║        Four operations. Four systems. Zero compromises.        ║
+║        four systems. built to solve real problems.            ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
@@ -311,25 +279,22 @@ me.execute()  # 🔥 No errors. Ever.
 <tr>
 <td width="60%" valign="top">
 
-### `[ OPERATION: EMISSARY ]`
-> **Classification:** `ALPHA` &nbsp;`·`&nbsp; **Status:** `🔴 ACTIVE`
+### `[ EMISSARY ]`
+> **Class:** `ALPHA` &nbsp;`·`&nbsp; **Status:** `🔴 active`
 
 ```
-MISSION BRIEF:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  TYPE      : AI Communication System
-  OBJECTIVE : Build the bridge between
-              human intent and machine
-              execution — at scale.
-  THREAT    : Solving problems no one
-              else dared to frame.
-  OUTCOME   : Systems that speak.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+────────────────────────────────────────────
+  type     : AI communication system
+  what     : bridge between human intent
+             and machine execution.
+  approach : built for scale, not demos.
+  result   : systems that speak clearly.
+────────────────────────────────────────────
 ```
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=FFD700)
 ![AI](https://img.shields.io/badge/AI_System-0d0d0d?style=flat-square&logo=openai&logoColor=9D00FF)
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-DC143C?style=flat-square)
+![Status](https://img.shields.io/badge/status-active-DC143C?style=flat-square)
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -352,24 +317,23 @@ MISSION BRIEF:
 </td>
 <td width="60%" valign="top">
 
-### `[ OPERATION: RETAIL INTELLIGENCE AI ]`
-> **Classification:** `BETA` &nbsp;`·`&nbsp; **Status:** `🟠 IN FIELD`
+### `[ RETAIL INTELLIGENCE AI ]`
+> **Class:** `BETA` &nbsp;`·`&nbsp; **Status:** `🟠 in field`
 
 ```
-MISSION BRIEF:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  TYPE      : ML Intelligence System
-  OBJECTIVE : Transform raw retail data
-              into predictive edge.
-  TECH      : Real-world ML pipelines,
-              deployed under pressure.
-  OUTCOME   : Markets bent to data.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+────────────────────────────────────────────
+  type     : ML intelligence system
+  what     : raw retail data → predictive
+             insight, deployed under
+             real-world conditions.
+  approach : pipelines that hold up.
+  result   : something actually useful.
+────────────────────────────────────────────
 ```
 
 ![ML](https://img.shields.io/badge/Machine_Learning-0d0d0d?style=flat-square&logo=scikit-learn&logoColor=F7931E)
 ![Data](https://img.shields.io/badge/Data_Pipeline-0d0d0d?style=flat-square&logo=pandas&logoColor=9D00FF)
-![Status](https://img.shields.io/badge/STATUS-IN_FIELD-ff4500?style=flat-square)
+![Status](https://img.shields.io/badge/status-in_field-ff4500?style=flat-square)
 
 </td>
 </tr>
@@ -382,24 +346,23 @@ MISSION BRIEF:
 <tr>
 <td width="60%" valign="top">
 
-### `[ OPERATION: mathX ]`
-> **Classification:** `GAMMA` &nbsp;`·`&nbsp; **Status:** `🟡 STAGING`
+### `[ mathX ]`
+> **Class:** `GAMMA` &nbsp;`·`&nbsp; **Status:** `🟡 staging`
 
 ```
-MISSION BRIEF:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  TYPE      : Mathematical Systems Engine
-  OBJECTIVE : Weaponize mathematics.
-              Automate the thinking.
-  CORE      : Algorithms that solve
-              what humans fear.
-  OUTCOME   : Math as a superpower.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+────────────────────────────────────────────
+  type     : mathematical systems engine
+  what     : automate the hard parts of
+             mathematical problem-solving.
+  approach : algorithms that handle what
+             would otherwise take hours.
+  result   : math that scales.
+────────────────────────────────────────────
 ```
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=FFD700)
 ![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=flat-square&logo=numpy&logoColor=4DABCF)
-![Status](https://img.shields.io/badge/STATUS-STAGING-FFD700?style=flat-square&labelColor=1a0000)
+![Status](https://img.shields.io/badge/status-staging-FFD700?style=flat-square&labelColor=1a0000)
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -422,26 +385,24 @@ MISSION BRIEF:
 </td>
 <td width="60%" valign="top">
 
-### `[ OPERATION: LinAlg-ODE ]`
-> **Classification:** `DELTA` &nbsp;`·`&nbsp; **Status:** `✅ DEPLOYED`
+### `[ LinAlg-ODE ]`
+> **Class:** `DELTA` &nbsp;`·`&nbsp; **Status:** `✅ deployed`
 
 ```
-MISSION BRIEF:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  TYPE      : Mathematical Foundation
-  OBJECTIVE : Master the language of
-              the universe — Linear
-              Algebra & Differential
-              Equations.
-  PURPOSE   : The bedrock under every
-              neural network ever made.
-  OUTCOME   : Equations as weapons.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+────────────────────────────────────────────
+  type     : mathematical foundation work
+  what     : linear algebra + differential
+             equations — the bedrock under
+             every neural network built.
+  approach : understand it completely or
+             not at all.
+  result   : the ground holds.
+────────────────────────────────────────────
 ```
 
 ![Math](https://img.shields.io/badge/Linear_Algebra-0d0d0d?style=flat-square&logo=latex&logoColor=ffffff)
 ![ODE](https://img.shields.io/badge/Diff_Equations-0d0d0d?style=flat-square&logo=wolfram&logoColor=DD1100)
-![Status](https://img.shields.io/badge/STATUS-DEPLOYED-00ff41?style=flat-square&labelColor=0d0d0d)
+![Status](https://img.shields.io/badge/status-deployed-00ff41?style=flat-square&labelColor=0d0d0d)
 
 </td>
 </tr>
@@ -465,43 +426,27 @@ MISSION BRIEF:
 
 <br/>
 
-
 [![Waka Time](https://github-readme-stats.vercel.app/api/wakatime?username=36013e23-c29a-4416-a7ca-063d5563aae2&theme=radical&bg_color=0d0d0d&title_color=FFD700)](https://wakatime.com/@36013e23-c29a-4416-a7ca-063d5563aae2)
 
-```
-◈ COMBAT STATISTICS — VERIFIED BY GITHUB INTEL ◈
-```
+<br/><br/>
 
-<!-- STATS ROW 1 -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sivadst&show_icons=true&theme=radical&bg_color=0d0d0d&title_color=FFD700&icon_color=DC143C&text_color=ff6b35&border_color=8b0000&hide_border=false&count_private=true&show=prs_merged,prs_merged_percentage" />
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivadst&layout=compact&theme=radical&bg_color=0d0d0d&title_color=FFD700&icon_color=DC143C&text_color=ff6b35&border_color=8b0000&langs_count=8" />
 
 <br/><br/>
 
-<!-- STREAK STATS -->
 <img src="https://streak-stats.demolab.com/?user=sivadst&theme=radical&background=0d0d0d&border=8b0000&stroke=DC143C&ring=FFD700&fire=ff4500&currStreakNum=FFD700&sideNums=ff6b35&currStreakLabel=DC143C&sideLabels=9D00FF&dates=8b8b8b" />
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivadst&bg_color=0d0d0d&color=FFD700&line=DC143C&point=ff4500&area=true&area_color=8b0000&hide_border=false&border_color=8b0000&title_color=FFD700" width="100%"/>
 
 <br/><br/>
 
-<!-- TROPHIES -->
-```
-◈ TROPHIES — EARNED IN BLOOD ◈
-```
-
 <img src="https://github-profile-trophy.vercel.app/?username=sivadst&theme=radical&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Reviews" />
 
 <br/><br/>
-
-<!-- CONTRIBUTION SNAKE -->
-```
-◈ THE SERPENT — CONSUMING EVERY IDLE DAY ◈
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivadst/sivadst/output/github-contribution-grid-snake-dark.svg" />
@@ -511,15 +456,13 @@ MISSION BRIEF:
 
 <br/><br/>
 
-<!-- EXTRA METRICS BADGES -->
-
-![](https://img.shields.io/badge/🔥_Total_Commits-1000+-DC143C?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/commits-consistent-DC143C?style=for-the-badge&labelColor=0d0d0d)
 &nbsp;
-![](https://img.shields.io/badge/⚔️_PRs_Merged-Active-FFD700?style=for-the-badge&labelColor=1a0000)
+![](https://img.shields.io/badge/PRs-open-FFD700?style=for-the-badge&labelColor=1a0000)
 &nbsp;
-![](https://img.shields.io/badge/🌌_Issues_Closed-Relentless-9D00FF?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/issues-resolved-9D00FF?style=for-the-badge&labelColor=0d0d0d)
 &nbsp;
-![](https://img.shields.io/badge/🚀_Stars_Earned-Growing-ff4500?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/stars-earned-ff4500?style=for-the-badge&labelColor=0d0d0d)
 
 <br/>
 
@@ -536,9 +479,7 @@ MISSION BRIEF:
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=🎯%20CURRENT%20MISSIONS&fontSize=40&fontColor=ff4500&animation=scaleIn" />
-
 </div>
 
 <table align="center" border="0" width="90%">
@@ -547,22 +488,20 @@ MISSION BRIEF:
 
 ```
 ┌─────────────────────────────────────────┐
-│   🤖  MISSION 01 — THE BUILD            │
+│   🤖  01 — the build                    │
 ├─────────────────────────────────────────┤
-│  Objective:  AI systems at scale        │
-│  Status:     🔴 EXECUTING               │
-│  ETA:        Infinite. Never stop.      │
-│  Notes:      ML pipelines. LLMs.        │
-│              Computer Vision. All of it │
+│  what    :  AI/ML systems               │
+│  status  :  ongoing                     │
+│  note    :  LLMs, CV, pipelines.        │
+│             all of it.                  │
 └─────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────┐
-│   ⛩️  MISSION 02 — TOKYO ARC            │
+│   ⛩️  02 — tokyo arc                    │
 ├─────────────────────────────────────────┤
-│  Objective:  Japan. Language. Culture.  │
-│  Status:     🟡 LOADING                 │
-│  ETA:        Soon. Very soon.           │
-│  Notes:      日本語勉強中。毎日。        │
+│  what    :  Japan. language. roots.     │
+│  status  :  in progress                 │
+│  note    :  日本語勉強中。毎日。         │
 └─────────────────────────────────────────┘
 ```
 
@@ -571,21 +510,19 @@ MISSION BRIEF:
 
 ```
 ┌─────────────────────────────────────────┐
-│   🏗️  MISSION 03 — THE STARTUP          │
+│   🏗️  03 — the startup                  │
 ├─────────────────────────────────────────┤
-│  Objective:  Build something from zero  │
-│  Status:     🔵 BLUEPRINT PHASE         │
-│  ETA:        When the time is right     │
-│  Notes:      Leverage. Timing. Vision.  │
+│  what    :  build from zero             │
+│  status  :  blueprint phase             │
+│  note    :  when the time is right.     │
 └─────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────┐
-│   👑  MISSION 04 — THE LEGACY           │
+│   👑  04 — the work                     │
 ├─────────────────────────────────────────┤
-│  Objective:  Leave marks on history     │
-│  Status:     🟣 IN PROGRESS             │
-│  ETA:        Decades. Not quarters.     │
-│  Notes:      Long game. Always.         │
+│  what    :  something that lasts        │
+│  status  :  always                      │
+│  note    :  decades, not quarters.      │
 └─────────────────────────────────────────┘
 ```
 
@@ -595,14 +532,12 @@ MISSION BRIEF:
 
 <br/>
 
-<!-- DAILY LIFE BADGES -->
 <div align="center">
 
-![](https://img.shields.io/badge/🌅_Wakes_up-Before_the_world-0d0d0d?style=flat-square&labelColor=1a0000&color=FFD700)
-![](https://img.shields.io/badge/📚_Currently_reading-Research_Papers-0d0d0d?style=flat-square&labelColor=1a0000&color=9D00FF)
-![](https://img.shields.io/badge/🎧_Listens_to-Soundtrack_of_ambition-0d0d0d?style=flat-square&labelColor=1a0000&color=DC143C)
-![](https://img.shields.io/badge/☕_Fuel-Coffee_+_Obsession-0d0d0d?style=flat-square&labelColor=1a0000&color=ff4500)
-![](https://img.shields.io/badge/🌙_Sleeps-When_the_work_is_done-0d0d0d?style=flat-square&labelColor=1a0000&color=8b0000)
+![](https://img.shields.io/badge/up_early-every_day-FFD700?style=flat-square&labelColor=1a0000)
+![](https://img.shields.io/badge/reading-research_papers-9D00FF?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/fuel-coffee_+_obsession-DC143C?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/online-when_the_work_demands_it-8b0000?style=flat-square&labelColor=0d0d0d)
 
 </div>
 
@@ -619,9 +554,7 @@ MISSION BRIEF:
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=🧠%20THE%20OBSESSION&fontSize=42&fontColor=9D00FF&animation=blinking" />
-
 </div>
 
 <table align="center" border="0" width="90%">
@@ -631,31 +564,21 @@ MISSION BRIEF:
 ```
 ┌────────────────────────────────────────────────────────────────────────────┐
 │                                                                            │
-│    D I S C I P L I N E                                                     │
-│    ─────────────────────────────────────────────────────────────           │
-│    "Most people want results. The Architect wants the process.             │
-│     The process is where identity is forged."                              │
+│   discipline   →   the one variable fully under my control.               │
+│                    protecting it is the whole game.                        │
 │                                                                            │
-│    L E V E R A G E                                                         │
-│    ─────────────────────────────────────────────────────────────           │
-│    "One system that runs while you sleep beats a hundred hours             │
-│     of hustle while you're awake. Always be building leverage."            │
+│   leverage     →   build once. let it compound while you sleep.            │
+│                    then build again.                                       │
 │                                                                            │
-│    T R A N S I T I O N                                                     │
-│    ─────────────────────────────────────────────────────────────           │
-│    "From student to engineer. From engineer to architect.                  │
-│     From architect to legend. Each phase demands total commitment."        │
+│   transition   →   student → engineer → whatever comes next.              │
+│                    each phase earned, not assumed.                         │
 │                                                                            │
-│    E L I T E                                                               │
-│    ─────────────────────────────────────────────────────────────           │
-│    "Elite is not a rank. It's a standard you hold yourself to              │
-│     when no one is watching. In the lab. At 2AM. Alone."                  │
+│   elite        →   a private standard, not a public claim.                │
+│                    you know it when the work shows up at 2am              │
+│                    and you still sit down.                                 │
 │                                                                            │
-│    L E G A C Y                                                             │
-│    ─────────────────────────────────────────────────────────────           │
-│    "I'm not building for the next product cycle.                           │
-│     I'm building for the next generation of engineers                      │
-│     who will stand on this work and see further."                          │
+│   legacy       →   not thinking about it.                                 │
+│                    just building.                                          │
 │                                                                            │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -666,15 +589,9 @@ MISSION BRIEF:
 
 <br/>
 
-<!-- QUOTE WIDGET -->
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0d0d0d&title_color=FFD700&quote_color=ff6b35&author_color=9D00FF&border_color=8b0000" />
-
-<br/>
-
-<!-- RANDOM DEV QUOTE -->
-<img src="https://readme-jokes.vercel.app/api?theme=radical&bgColor=%230d0d0d&borderColor=%238b0000&qColor=%23FFD700&aColor=%23ff6b35&punchlineColor=%239D00FF" />
 
 </div>
 
@@ -696,23 +613,23 @@ MISSION BRIEF:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Connect)][(https://www.linkedin.com/in/selvasivaa/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=Connect)](https://www.linkedin.com/in/selvasivaa/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff&label=Follow)](https://github.com/sivadst)
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=DC143C&label=Contact)](mailto:[selvasivahere@gmail.com])
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=DC143C&label=Contact)](mailto:selvasivahere@gmail.com)
 
 <br/>
 
-![](https://img.shields.io/badge/Open_to-Research_Collabs-9D00FF?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/Open_to-Internships-FFD700?style=flat-square&labelColor=1a0000)
-![](https://img.shields.io/badge/Open_to-AI_Projects-DC143C?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/NOT_open_to-Mediocrity-333333?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/open_to-research_collabs-9D00FF?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/open_to-internships-FFD700?style=flat-square&labelColor=1a0000)
+![](https://img.shields.io/badge/open_to-AI_projects-DC143C?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/not_open_to-mediocrity-333333?style=flat-square&labelColor=0d0d0d)
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎬  CINEMATIC ENDING  ==================================================== -->
+<!-- 🎬  CLOSING  ============================================================= -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <br/>
@@ -726,41 +643,37 @@ MISSION BRIEF:
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║                         ◈  FINAL TRANSMISSION  ◈                            ║
+║                            ◈  closing note  ◈                               ║
 ║                                                                              ║
-║   In the end, they won't remember the language you coded in.                 ║
-║   They won't remember the framework or the GPU cluster.                      ║
+║   They won't remember the language you coded in.                             ║
+║   Or the framework. Or which GPU cluster.                                    ║
 ║                                                                              ║
-║   They'll remember what you built.                                           ║
-║   They'll remember who it helped.                                            ║
-║   They'll remember the system that kept running long after you were gone.    ║
+║   They'll remember what the system did.                                      ║
+║   Who it helped. That it kept running.                                       ║
 ║                                                                              ║
-║   That's the only metric worth tracking.                                     ║
+║   Building toward that.                                                      ║
 ║                                                                              ║
-║                      — THE ARCHITECT, SRM-AP, India                         ║
-║                        En route to Tokyo. Via history.                       ║
+║                                    — SRM-AP, India                           ║
+║                                      en route to Tokyo.                      ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<!-- ANIMATED TYPING — CLOSING -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1500&color=FFD700&center=true&vCenter=true&width=700&height=45&lines=⚔️+Code+the+frontier...;🤠+But+keep+your+hands+on+the+holster.;💀+The+Architect+signs+off." />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3500&pause=2000&color=FFD700&center=true&vCenter=true&width=700&height=45&lines=code+the+frontier,+keep+your+hands+on+the+holster.;still+building.;—" />
 
 <br/><br/>
 
-<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4500,20:8b0000,50:1a0000,80:0d0d0d,100:0d0d0d&height=160&section=footer&text=THE+ARCHITECT&fontSize=40&fontColor=FFD700&fontAlignY=65&animation=fadeIn" />
 
-<!-- HIDDEN EASTER EGG -->
 <!-- 🎮 You found it. The real project is the person building. Keep going. -->
 
 </div>
 
-<!-- 
+<!--
 ╔══════════════════════════════════════════════════════════════╗
 ║           ARCHITECT OS — README ENGINE v1.0                  ║
-║           "The profile is the mission dossier."              ║
+║           "the profile is the mission dossier."              ║
 ╚══════════════════════════════════════════════════════════════╝
 -->
