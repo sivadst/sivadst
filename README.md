@@ -1,19 +1,4 @@
-<!-- HERO CAPSULE BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0000,60:3d0000,80:8b0000,100:ff4500&height=280&section=header&text=THE%20ARCHITECT&fontSize=90&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=◈%20AI%20Engineer%20%7C%20Systems%20Builder%20%7C%20SRM-AP%20→%20Tokyo%20◈&descAlignY=58&descSize=18&descColor=ff6b35" />
 
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=sivadst&style=for-the-badge&color=8b0000&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/sivadst?style=for-the-badge&color=FFD700&labelColor=1a0000&label=FOLLOWERS" />
-&nbsp;
-<img src="https://img.shields.io/badge/STATUS-BUILDING-9D00FF?style=for-the-badge&labelColor=0d0d0d" />
-
-<br/><br/>
-
-<!-- ANIMATED TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&multiline=false&width=800&height=55&lines=building+AI+systems.+quietly.;SRM-AP+→+Tokyo+→+further.;code+the+frontier,+keep+your+hands+on+the+holster.;long+game.+always.;still+early.+still+building." alt="Typing SVG" />
-</a>
 
 <br/><br/>
 
