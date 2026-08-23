@@ -1,8 +1,6 @@
-
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3N0bHVhZ2N2amo3dTZvMXpxc2dmMWgzdHUwaTRyenlsYWc2b2N5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mvgtNtBDPyZWWDtSr0/giphy.gif" width="400" />
+</div>
 
 </div>
 
