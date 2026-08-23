@@ -314,11 +314,7 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3500&pause=2000&color=FFD700&center=true&vCenter=true&width=700&height=45&lines=code+the+frontier,+keep+your+hands+on+the+holster.;still+building.;—" />
-
-<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4500,20:8b0000,50:1a0000,80:0d0d0d,100:0d0d0d&height=160&section=footer&text=THE+ARCHITECT&fontSize=40&fontColor=FFD700&fontAlignY=65&animation=fadeIn" />
 
