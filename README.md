@@ -2,12 +2,6 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3N0bHVhZ2N2amo3dTZvMXpxc2dmMWgzdHUwaTRyenlsYWc2b2N5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mvgtNtBDPyZWWDtSr0/giphy.gif" width="400" />
 </div>
 
-</div>
-
-<div align="center">
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3N0bHVhZ2N2amo3dTZvMXpxc2dmMWgzdHUwaTRyenlsYWc2b2N5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mvgtNtBDPyZWWDtSr0/giphy.gif" width="400" align="right" />
-
 <!-- HERO CAPSULE BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0000,60:3d0000,80:8b0000,100:ff4500&height=280&section=header&text=THE%20ARCHITECT&fontSize=90&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=◈%20AI%20Engineer%20%7C%20Systems%20Builder%20%7C%20SRM-AP%20→%20Tokyo%20◈&descAlignY=58&descSize=18&descColor=ff6b35" />
 
